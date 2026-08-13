@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "description": "A glance at what these skills actually produce. Every preview below is the linked project's own demo — click an image to jump to that entry.",
+      "items": [],
+      "title": "Featured Showcase"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Skills"
+    },
+    {
+      "description": "These are the projects most of the others reference, fork, or benchmark against. If you're new to HTML slide skills, start here.",
+      "items": [],
+      "title": "Tier S · Foundational / 1k+ stars"
+    },
+    {
+      "description": "Not \"decent for AI\" quality — the output looks like a real design team made it. Give it your brand assets (logo, colors, UI screenshots) and it reads your brand voice; give it nothing and the 20 built-in design vocabularies still keep the output out of AI-slop territory.\nInstall: .",
+      "items": [],
+      "title": "2. alchaincyf/huashu-design · ⭐ 19,547"
+    },
+    {
+      "description": "Sibling repo to — pure templates, no skill logic. 32 templates, 3 slides each (cover · mid-deck · later) to give an agent a sense of how each visual system handles different layout duties before committing.\nAlso listed under Templates below.",
+      "items": [],
+      "title": "7. zarazhangrui/beautiful-html-templates · ⭐ 3,096"
+    },
+    {
+      "description": "Mature, actively maintained skills with a clear style point of view. Best when you know roughly what you want — e.g. \"I need a McKinsey-style consulting deck\" — and want a skill that does only that, well.",
+      "items": [],
+      "title": "Tier A · Production-ready / 100–1000 stars"
+    },
+    {
+      "description": "Editable fork of . Keeps the upstream style discovery, viewport discipline, and PPT conversion, then adds a full in-browser editing runtime: drag objects, resize blocks, edit text, reorder slides, save locally, export a clean standalone HTML.",
+      "items": [],
+      "title": "9. archlizheng/frontend-slides-editable · ⭐ 362"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "10. vigorX777/ppt-svg-generator · ⭐ 238"
+    },
+    {
+      "description": "AI-native PowerPoint design system — 67 layouts · Harness Engineering · BLOCK_ARC charts · QA pipeline · Python runtime. The most opinionated McKinsey/BCG-style skill in the list; outputs lean PPTX rather than HTML, useful when the audience expects a file but you want consulting-grade typography.",
+      "items": [],
+      "title": "11. likaku/Mck-ppt-design-skill · ⭐ 198"
+    },
+    {
+      "description": "One of the few skills designed to switch cleanly between image-rendered slides (e.g. for social media carousels) and live HTML decks from the same content IR.",
+      "items": [],
+      "title": "12. bytonylee/future-slide-skill · ⭐ 135"
+    },
+    {
+      "description": "Smaller star counts, but several of these are the best option for their niche — Huawei-style strategy decks, knowledge-retention teaching slides, anti-AI-slop design tokens, etc.",
+      "items": [],
+      "title": "Tier B · Emerging / specialized"
+    },
+    {
+      "description": "Every decision — narrative structure, per-slide layout, animation choice — answers a single question: what cognitive action does the audience need to perform here?\nBest for: teachers, researchers, PhD students, content creators (voice-over videos, knowledge channels), internal training and talks. Not for: pure commercial decks (PowerPoint / Keynote ship faster), real-time collaborative editing (use Google Slides).",
+      "items": [],
+      "title": "14. edu-ai-builders/visual-cognition-slides · ⭐ 72"
+    },
+    {
+      "description": "Meta-collection rather than a single skill. The author packages multiple distinct visual systems (, , , , , ) and ships them as a stable visual layer for whichever coding agent you happen to use (Codex, Claude Code, Cursor, OpenCode, OpenClaw, Hermes). Traditional Chinese decks are first-class.\nAlso listed under Templates below.",
+      "items": [],
+      "title": "15. software-ai-life/Awesome-PPT-Design-Skills · ⭐ 56"
+    },
+    {
+      "description": "Fully reproduces the 2026 official Kingdee International template design language. Dual-style system (Classic / Bento Motion), 29 layouts, 7 auto-detected thinking models, embedded official background and logo, zero-config.",
+      "items": [],
+      "title": "16. WayneZhon/KingDee-PPT-Skill · ⭐ 54"
+    },
+    {
+      "description": "End-to-end workflow specifically tuned for Huawei-style strategy pages, architecture overviews, data insights, and side-by-side solution comparisons — i.e. document-style high-density decks that are intentionally heavier than a typical slide.",
+      "items": [],
+      "title": "19. zuiho-kai/huawei-style-ppt-skill · ⭐ 35"
+    },
+    {
+      "description": "Each style is a complete design system: curated typography, color palette, layout patterns, signature animations, responsive breakpoints.",
+      "items": [],
+      "title": "20. codesstar/next-slide · ⭐ 34"
+    },
+    {
+      "description": "Hand-crafted HTML template libraries — drop them into a project, point your agent at the folder, get a deck.",
+      "items": [],
+      "title": "Templates"
+    },
+    {
+      "description": "32 templates, three slides per template (cover · mid-deck · later) to show how each visual system handles different layout duties. The de-facto reference template library for the Claude Code skill ecosystem — many skills above will pull from or reference these templates directly.",
+      "items": [],
+      "title": "T1. zarazhangrui/beautiful-html-templates · ⭐ 3,096"
+    },
+    {
+      "description": "Curated content (this README, the structure, the descriptive text) is licensed under CC BY 4.0. Each linked project retains its own license — check the linked repos before reuse.\nInline preview images are hot-linked from each project's own GitHub repository (under or ). They remain the copyright of their respective authors and are shown here as fair-use thumbnails to help readers identify each project at a glance. If you are the author of a project featured here and would like a preview removed or swapped, open an issue and we'll fix it immediately.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T23:26:42.702Z",
+    "original_repository": "ToseaAI/awesome-html-slide-skills",
+    "original_repository_sha": "238ef7139efc83d3ca98916bc5d7f49a0cf9b565",
+    "enhanced_repository": "enhansome/enhansome-html-slide-skills",
+    "enhanced_repository_description": null,
+    "title": "Awesome html slide skills with stars"
+  }
+}
