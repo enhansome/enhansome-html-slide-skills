@@ -16,7 +16,7 @@
                 "last_commit": "2026-06-23T20:08:19Z",
                 "owner": "zarazhangrui",
                 "repo": "frontend-slides",
-                "stars": 28072
+                "stars": 28091
               },
               "title": "1. zarazhangrui/frontend-slides · ⭐ 22,614"
             },
@@ -28,10 +28,10 @@
                 "archived": false,
                 "id": 1215145625,
                 "language": "HTML",
-                "last_commit": "2026-08-23T07:51:20Z",
+                "last_commit": "2026-08-25T03:05:46Z",
                 "owner": "alchaincyf",
                 "repo": "huashu-design",
-                "stars": 23475
+                "stars": 23493
               },
               "title": "2. alchaincyf/huashu-design · ⭐ 19,547"
             },
@@ -46,7 +46,7 @@
                 "last_commit": "2026-08-07T03:58:08Z",
                 "owner": "op7418",
                 "repo": "guizang-ppt-skill",
-                "stars": 24767
+                "stars": 24799
               },
               "title": "3. op7418/guizang-ppt-skill · ⭐ 18,604"
             },
@@ -61,7 +61,7 @@
                 "last_commit": "2026-08-20T05:41:12Z",
                 "owner": "nicobailon",
                 "repo": "visual-explainer",
-                "stars": 9554
+                "stars": 9557
               },
               "title": "4. nicobailon/visual-explainer · ⭐ 8,837"
             },
@@ -76,7 +76,7 @@
                 "last_commit": "2026-04-26T07:13:39Z",
                 "owner": "lewislulu",
                 "repo": "html-ppt-skill",
-                "stars": 8043
+                "stars": 8050
               },
               "title": "5. lewislulu/html-ppt-skill · ⭐ 6,411"
             },
@@ -91,7 +91,7 @@
                 "last_commit": "2026-08-24T13:25:07Z",
                 "owner": "1weiho",
                 "repo": "open-slide",
-                "stars": 6900
+                "stars": 6921
               },
               "title": "6. 1weiho/open-slide · ⭐ 5,498"
             },
@@ -106,7 +106,7 @@
                 "last_commit": "2026-06-09T23:59:37Z",
                 "owner": "zarazhangrui",
                 "repo": "beautiful-html-templates",
-                "stars": 4336
+                "stars": 4341
               },
               "title": "7. zarazhangrui/beautiful-html-templates · ⭐ 3,096"
             }
@@ -210,7 +210,7 @@
                 "last_commit": "2026-05-11T00:47:17Z",
                 "owner": "Akxan",
                 "repo": "ppt-agent-skill",
-                "stars": 136
+                "stars": 137
               },
               "title": "13. Akxan/ppt-agent-skill · ⭐ 91"
             },
@@ -386,7 +386,7 @@
             "last_commit": "2026-06-09T23:59:37Z",
             "owner": "zarazhangrui",
             "repo": "beautiful-html-templates",
-            "stars": 4336
+            "stars": 4341
           },
           "title": "T1. zarazhangrui/beautiful-html-templates · ⭐ 3,096"
         },
@@ -410,7 +410,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:09:31.070Z",
+    "last_updated": "2026-08-25T06:32:17.767Z",
     "original_repository": "ToseaAI/awesome-html-slide-skills",
     "original_repository_id": 1237257052,
     "original_repository_sha": "238ef7139efc83d3ca98916bc5d7f49a0cf9b565",
