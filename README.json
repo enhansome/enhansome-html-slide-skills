@@ -20,7 +20,7 @@
                 "open_issues": 68,
                 "owner": "zarazhangrui",
                 "repo": "frontend-slides",
-                "stars": 28323,
+                "stars": 28326,
                 "topics": [
                   "ai-slides",
                   "anthropic",
@@ -52,7 +52,7 @@
                 "open_issues": 3,
                 "owner": "alchaincyf",
                 "repo": "huashu-design",
-                "stars": 23662,
+                "stars": 23665,
                 "topics": []
               },
               "title": "2. alchaincyf/huashu-design · ⭐ 19,547",
@@ -73,7 +73,7 @@
                 "open_issues": 40,
                 "owner": "op7418",
                 "repo": "guizang-ppt-skill",
-                "stars": 25114,
+                "stars": 25118,
                 "topics": [
                   "ai-agent",
                   "claude-code",
@@ -127,7 +127,7 @@
                 "open_issues": 21,
                 "owner": "lewislulu",
                 "repo": "html-ppt-skill",
-                "stars": 8107,
+                "stars": 8108,
                 "topics": []
               },
               "title": "5. lewislulu/html-ppt-skill · ⭐ 6,411",
@@ -173,7 +173,7 @@
                 "open_issues": 1,
                 "owner": "zarazhangrui",
                 "repo": "beautiful-html-templates",
-                "stars": 4402,
+                "stars": 4403,
                 "topics": []
               },
               "title": "7. zarazhangrui/beautiful-html-templates · ⭐ 3,096",
@@ -629,7 +629,7 @@
             "open_issues": 1,
             "owner": "zarazhangrui",
             "repo": "beautiful-html-templates",
-            "stars": 4402,
+            "stars": 4403,
             "topics": []
           },
           "title": "T1. zarazhangrui/beautiful-html-templates · ⭐ 3,096",
@@ -667,7 +667,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:55:23.883Z",
+    "last_updated": "2026-08-29T04:58:28.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of HTML slide generation skills and template libraries for Claude Code, Codex, Cursor, OpenClaw, and Hermes. 精选 HTML 演示文稿 Skill 与模板库。",
