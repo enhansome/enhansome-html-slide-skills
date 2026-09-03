@@ -83,7 +83,7 @@ These are the projects most of the others reference, fork, or benchmark against.
 
 ***
 
-#### 1. [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) ⭐ 28,555 | 🐛 69 | 🌐 JavaScript | 📅 2026-06-23 · ⭐ 22,614
+#### 1. [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) ⭐ 28,624 | 🐛 69 | 🌐 JavaScript | 📅 2026-06-23 · ⭐ 22,614
 
 > Create beautiful slides on the web using Claude's frontend skills.
 
@@ -95,11 +95,11 @@ The project that kicked off the modern HTML-slide-skill wave. Built on a "show, 
 * **Light** — Notebook Tabs (editorial, paper with colorful tabs), Pastel Geometry (vertical pills, friendly), Split Pastel (playful two-color vertical split), Vintage Editorial (witty, geometric shapes).
 * **Specialty** — Neon Cyber (particle bg, neon glow), Terminal Green (hacker aesthetic), Swiss Modern (Bauhaus-inspired), Paper & Ink (drop caps and pull quotes).
 
-**Why it stands out**: ergonomic style-discovery flow, a healthy fork ecosystem (see [`frontend-slides-editable`](#9-archlizhengfrontend-slides-editable--362) below), and Anthropic itself uses the project as an example of what skills can do. The full demo video and additional assets live on the [project's README](https://github.com/zarazhangrui/frontend-slides) ⭐ 28,555 | 🐛 69 | 🌐 JavaScript | 📅 2026-06-23.
+**Why it stands out**: ergonomic style-discovery flow, a healthy fork ecosystem (see [`frontend-slides-editable`](#9-archlizhengfrontend-slides-editable--362) below), and Anthropic itself uses the project as an example of what skills can do. The full demo video and additional assets live on the [project's README](https://github.com/zarazhangrui/frontend-slides) ⭐ 28,624 | 🐛 69 | 🌐 JavaScript | 📅 2026-06-23.
 
 ***
 
-#### 2. [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) ⭐ 23,790 | 🐛 3 | 🌐 HTML | 📅 2026-08-25 · ⭐ 19,547
+#### 2. [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) ⭐ 23,821 | 🐛 3 | 🌐 HTML | 📅 2026-08-25 · ⭐ 19,547
 
 > *"Type. Hit enter. A finished design lands in your lap."* — HTML-native design skill for Claude Code · Agent-agnostic · 20 design philosophies · 5-dimension critique · MP4 export.
 
@@ -124,7 +124,7 @@ Install: `npx skills add alchaincyf/huashu-design`.
 
 ***
 
-#### 3. [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) ⭐ 25,430 | 🐛 40 | 🌐 HTML | 📅 2026-08-07 · ⭐ 18,604
+#### 3. [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) ⭐ 25,505 | 🐛 40 | 🌐 HTML | 📅 2026-08-07 · ⭐ 18,604
 
 > A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.
 
@@ -138,7 +138,7 @@ The "magazine voice" of the ecosystem. Two flagship styles you'll recognize on s
 
 ***
 
-#### 4. [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) ⭐ 9,622 | 🐛 1 | 🌐 HTML | 📅 2026-08-28 · ⭐ 8,837
+#### 4. [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) ⭐ 9,627 | 🐛 1 | 🌐 HTML | 📅 2026-08-28 · ⭐ 8,837
 
 > Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps.
 
@@ -157,7 +157,7 @@ A "Swiss army knife" skill — it'll happily produce a single landing page, a co
 
 ***
 
-#### 5. [lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) ⭐ 8,173 | 🐛 21 | 🌐 HTML | 📅 2026-04-26 · ⭐ 6,411
+#### 5. [lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) ⭐ 8,189 | 🐛 21 | 🌐 HTML | 📅 2026-04-26 · ⭐ 6,411
 
 > HTML PPT Studio — A world-class AgentSkill for producing professional HTML presentations.
 
@@ -179,7 +179,7 @@ By far the most feature-loaded skill on this list. Pure static HTML/CSS/JS, no b
 
 ***
 
-#### 6. [1weiho/open-slide](https://github.com/1weiho/open-slide) ⭐ 7,349 | 🐛 95 | 🌐 TypeScript | 📅 2026-08-29 · ⭐ 5,498
+#### 6. [1weiho/open-slide](https://github.com/1weiho/open-slide) ⭐ 7,362 | 🐛 95 | 🌐 TypeScript | 📅 2026-09-02 · ⭐ 5,498
 
 > The slide framework built for agents. Describe your deck in natural language — your coding agent writes the React. open-slide handles the canvas, scaling, navigation, hot reload, and present mode so the agent can focus on content.
 
@@ -201,7 +201,7 @@ Install: `npx @open-slide/cli init my-slide`.
 
 ***
 
-#### 7. [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) ⭐ 4,439 | 🐛 1 | 🌐 HTML | 📅 2026-06-09 · ⭐ 3,096
+#### 7. [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) ⭐ 4,448 | 🐛 1 | 🌐 HTML | 📅 2026-06-09 · ⭐ 3,096
 
 > A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically.
 
@@ -222,7 +222,7 @@ Mature, actively maintained skills with a clear style point of view. Best when y
 
 ***
 
-#### 8. [mucsbr/ppt-agent-workflow-san](https://github.com/mucsbr/ppt-agent-workflow-san) ⭐ 635 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-28 · ⭐ 597
+#### 8. [mucsbr/ppt-agent-workflow-san](https://github.com/mucsbr/ppt-agent-workflow-san) ⭐ 636 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-02 · ⭐ 597
 
 > 渐进交互式 PPT 生成 skill — progressive interactive PPT generation.
 
@@ -239,7 +239,7 @@ Notable for treating the HTML→PPTX export problem as a first-class concern, no
 
 ***
 
-#### 9. [archlizheng/frontend-slides-editable](https://github.com/archlizheng/frontend-slides-editable) ⭐ 483 | 🐛 4 | 🌐 HTML | 📅 2026-07-01 · ⭐ 362
+#### 9. [archlizheng/frontend-slides-editable](https://github.com/archlizheng/frontend-slides-editable) ⭐ 486 | 🐛 4 | 🌐 HTML | 📅 2026-07-01 · ⭐ 362
 
 > Editable HTML presentation skill for Codex/Claude Code with drag-resize editing, slide reordering, local save/export, and PPTX-to-web conversion.
 
@@ -272,7 +272,7 @@ Editable fork of `zarazhangrui/frontend-slides`. Keeps the upstream style discov
 
 ***
 
-#### 11. [likaku/Mck-ppt-design-skill](https://github.com/likaku/Mck-ppt-design-skill) ⭐ 265 | 🐛 3 | 🌐 Python | 📅 2026-05-10 · ⭐ 198
+#### 11. [likaku/Mck-ppt-design-skill](https://github.com/likaku/Mck-ppt-design-skill) ⭐ 268 | 🐛 3 | 🌐 Python | 📅 2026-05-10 · ⭐ 198
 
 > Consulting firm–style PowerPoint design system for AI agents. 70 layout patterns, flat design, python-pptx. 麦麸风格 PPT 设计系统。
 
@@ -302,7 +302,7 @@ Smaller star counts, but several of these are the *best* option for their niche 
 
 ***
 
-#### 13. [Akxan/ppt-agent-skill](https://github.com/Akxan/ppt-agent-skill) ⭐ 140 | 🐛 0 | 🌐 Python | 📅 2026-05-11 · ⭐ 91
+#### 13. [Akxan/ppt-agent-skill](https://github.com/Akxan/ppt-agent-skill) ⭐ 141 | 🐛 0 | 🌐 Python | 📅 2026-05-11 · ⭐ 91
 
 > World-class AI presentation generator · 26 styles · 18 charts · benchmarked against Linear / Anthropic / Stripe / Apple / NYT.
 
@@ -322,7 +322,7 @@ Models a full agency workflow rather than "outline → template": research first
 
 ***
 
-#### 14. [edu-ai-builders/visual-cognition-slides](https://github.com/edu-ai-builders/visual-cognition-slides) ⭐ 82 | 🐛 0 | 🌐 Python | 📅 2026-05-16 · ⭐ 72
+#### 14. [edu-ai-builders/visual-cognition-slides](https://github.com/edu-ai-builders/visual-cognition-slides) ⭐ 83 | 🐛 0 | 🌐 Python | 📅 2026-05-16 · ⭐ 72
 
 > An HTML slide design skill grounded in cognitive science and instructional design. Outputs presentation decks optimized for knowledge retention.
 
@@ -333,9 +333,9 @@ Every decision — narrative structure, per-slide layout, animation choice — a
 
 ***
 
-#### 15. [software-ai-life/Awesome-PPT-Design-Skills](https://github.com/software-ai-life/Awesome-PPT-Design-Skills) ⭐ 95 | 🐛 0 | 🌐 HTML | 📅 2026-04-28 · ⭐ 56
+#### 15. [software-ai-life/Awesome-PPT-Design-Skills](https://github.com/software-ai-life/Awesome-PPT-Design-Skills) ⭐ 97 | 🐛 0 | 🌐 HTML | 📅 2026-04-28 · ⭐ 56
 
-> Agent-agnostic PPT design skills for generating polished PowerPoint decks with [ppt-master](https://github.com/hugohe3/ppt-master) ⭐ 51,149 | 🐛 8 | 🌐 Python | 📅 2026-08-31.
+> Agent-agnostic PPT design skills for generating polished PowerPoint decks with [ppt-master](https://github.com/hugohe3/ppt-master) ⭐ 51,487 | 🐛 4 | 🌐 Python | 📅 2026-09-02.
 
 Meta-collection rather than a single skill. The author packages multiple distinct visual systems (`japanese-style-ppt-skill`, `soft-3d-clay-ppt-skill`, `futuristic-tech-editorial-ppt-skill`, `minimalist-luxury-branding-ppt-skill`, `modern-illustration-editorial-ppt-skill`, `japanese-hand-drawn-editorial-ppt-skill`) and ships them as a stable visual layer for whichever coding agent you happen to use (Codex, Claude Code, Cursor, OpenCode, OpenClaw, Hermes). Traditional Chinese decks are first-class.
 
@@ -351,7 +351,7 @@ Fully reproduces the 2026 official Kingdee International template design languag
 
 ***
 
-#### 17. [kaisersong/slide-creator](https://github.com/kaisersong/slide-creator) ⭐ 47 | 🐛 0 | 🌐 Python | 📅 2026-08-16 · ⭐ 44
+#### 17. [kaisersong/slide-creator](https://github.com/kaisersong/slide-creator) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2026-08-16 · ⭐ 44
 
 > A skill for Claude Code and OpenClaw that generates stunning, zero-dependency HTML presentations.
 
@@ -385,7 +385,7 @@ Fully reproduces the 2026 official Kingdee International template design languag
 
 ***
 
-#### 19. [zuiho-kai/huawei-style-ppt-skill](https://github.com/zuiho-kai/huawei-style-ppt-skill) ⭐ 60 | 🐛 1 | 📅 2026-07-11 · ⭐ 35
+#### 19. [zuiho-kai/huawei-style-ppt-skill](https://github.com/zuiho-kai/huawei-style-ppt-skill) ⭐ 61 | 🐛 1 | 📅 2026-07-11 · ⭐ 35
 
 > 华为风格 PPT Skill — high-density information PPT workflow.
 
@@ -475,7 +475,7 @@ Hand-crafted HTML template libraries — drop them into a project, point your ag
 
 ***
 
-#### T1. [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) ⭐ 4,439 | 🐛 1 | 🌐 HTML | 📅 2026-06-09 · ⭐ 3,096
+#### T1. [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) ⭐ 4,448 | 🐛 1 | 🌐 HTML | 📅 2026-06-09 · ⭐ 3,096
 
 > A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically.
 
@@ -488,7 +488,7 @@ Hand-crafted HTML template libraries — drop them into a project, point your ag
 
 ***
 
-#### T2. [software-ai-life/Awesome-PPT-Design-Skills](https://github.com/software-ai-life/Awesome-PPT-Design-Skills) ⭐ 95 | 🐛 0 | 🌐 HTML | 📅 2026-04-28 · ⭐ 56
+#### T2. [software-ai-life/Awesome-PPT-Design-Skills](https://github.com/software-ai-life/Awesome-PPT-Design-Skills) ⭐ 97 | 🐛 0 | 🌐 HTML | 📅 2026-04-28 · ⭐ 56
 
 > Agent-agnostic PPT design skills, distributed as a library of style packs.
 
@@ -514,7 +514,7 @@ PRs welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). The bar:
 3. Star count is checked at PR merge time and used to place the entry in the right tier.
 4. If your project has a demo GIF, banner, or screenshot grid in its README, include a `<p align="center"><img></p>` block linking to the raw asset URL — see existing entries for the pattern.
 
-If you find a broken link, a stale star count, or a project we missed, [open an issue](https://github.com/ToseaAI/awesome-html-slide-skills/issues/new) ⭐ 133 | 🐛 0 | 📅 2026-06-23.
+If you find a broken link, a stale star count, or a project we missed, [open an issue](https://github.com/ToseaAI/awesome-html-slide-skills/issues/new) ⭐ 134 | 🐛 1 | 📅 2026-06-23.
 
 ***
 
@@ -522,7 +522,7 @@ If you find a broken link, a stale star count, or a project we missed, [open an 
 
 Curated content (this README, the structure, the descriptive text) is licensed under [CC BY 4.0](LICENSE). Each linked project retains its own license — check the linked repos before reuse.
 
-Inline preview images are hot-linked from each project's own GitHub repository (under `raw.githubusercontent.com` or `github.com/user-attachments`). They remain the copyright of their respective authors and are shown here as fair-use thumbnails to help readers identify each project at a glance. If you are the author of a project featured here and would like a preview removed or swapped, [open an issue](https://github.com/ToseaAI/awesome-html-slide-skills/issues/new) ⭐ 133 | 🐛 0 | 📅 2026-06-23 and we'll fix it immediately.
+Inline preview images are hot-linked from each project's own GitHub repository (under `raw.githubusercontent.com` or `github.com/user-attachments`). They remain the copyright of their respective authors and are shown here as fair-use thumbnails to help readers identify each project at a glance. If you are the author of a project featured here and would like a preview removed or swapped, [open an issue](https://github.com/ToseaAI/awesome-html-slide-skills/issues/new) ⭐ 134 | 🐛 1 | 📅 2026-06-23 and we'll fix it immediately.
 
 ***
 
@@ -532,4 +532,4 @@ Inline preview images are hot-linked from each project's own GitHub repository (
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
