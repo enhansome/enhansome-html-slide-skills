@@ -20,7 +20,7 @@
                 "open_issues": 68,
                 "owner": "zarazhangrui",
                 "repo": "frontend-slides",
-                "stars": 29792,
+                "stars": 29825,
                 "topics": [
                   "ai-slides",
                   "anthropic",
@@ -52,7 +52,7 @@
                 "open_issues": 3,
                 "owner": "alchaincyf",
                 "repo": "huashu-design",
-                "stars": 24435,
+                "stars": 24454,
                 "topics": []
               },
               "title": "2. alchaincyf/huashu-design · ⭐ 19,547",
@@ -73,7 +73,7 @@
                 "open_issues": 44,
                 "owner": "op7418",
                 "repo": "guizang-ppt-skill",
-                "stars": 26909,
+                "stars": 26946,
                 "topics": [
                   "ai-agent",
                   "claude-code",
@@ -106,7 +106,7 @@
                 "open_issues": 2,
                 "owner": "nicobailon",
                 "repo": "visual-explainer",
-                "stars": 9918,
+                "stars": 9924,
                 "topics": []
               },
               "title": "4. nicobailon/visual-explainer · ⭐ 8,837",
@@ -127,7 +127,7 @@
                 "open_issues": 7,
                 "owner": "lewislulu",
                 "repo": "html-ppt-skill",
-                "stars": 8506,
+                "stars": 8510,
                 "topics": []
               },
               "title": "5. lewislulu/html-ppt-skill · ⭐ 6,411",
@@ -144,11 +144,11 @@
                 "id": 1221509404,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-24T22:58:29Z",
-                "open_issues": 123,
+                "last_commit": "2026-09-25T17:30:40Z",
+                "open_issues": 120,
                 "owner": "open-slide",
                 "repo": "open-slide",
-                "stars": 7651,
+                "stars": 7653,
                 "topics": [
                   "agent",
                   "react",
@@ -173,7 +173,7 @@
                 "open_issues": 1,
                 "owner": "zarazhangrui",
                 "repo": "beautiful-html-templates",
-                "stars": 4652,
+                "stars": 4655,
                 "topics": []
               },
               "title": "7. zarazhangrui/beautiful-html-templates · ⭐ 3,096",
@@ -222,7 +222,7 @@
                 "open_issues": 4,
                 "owner": "archlizheng",
                 "repo": "frontend-slides-editable",
-                "stars": 521,
+                "stars": 524,
                 "topics": []
               },
               "title": "9. archlizheng/frontend-slides-editable · ⭐ 362",
@@ -264,7 +264,7 @@
                 "open_issues": 3,
                 "owner": "likaku",
                 "repo": "Mck-ppt-design-skill",
-                "stars": 288,
+                "stars": 289,
                 "topics": [
                   "agent-skill",
                   "ai-skill",
@@ -306,7 +306,7 @@
                 "open_issues": 0,
                 "owner": "humantonylee",
                 "repo": "future-slide",
-                "stars": 147,
+                "stars": 148,
                 "topics": []
               },
               "title": "12. bytonylee/future-slide-skill · ⭐ 135",
@@ -334,7 +334,7 @@
                 "open_issues": 0,
                 "owner": "Akxan",
                 "repo": "ppt-agent-skill",
-                "stars": 152,
+                "stars": 154,
                 "topics": [
                   "ai-agent",
                   "ai-presentation",
@@ -538,7 +538,7 @@
                 "open_issues": 0,
                 "owner": "Phlegonlabs",
                 "repo": "Powerpoint-fancy-design",
-                "stars": 32,
+                "stars": 33,
                 "topics": [
                   "claude-code",
                   "codex-skill",
@@ -569,7 +569,7 @@
                 "open_issues": 0,
                 "owner": "jxshow",
                 "repo": "Jingge-PPT-sense-deck-skill",
-                "stars": 23,
+                "stars": 24,
                 "topics": []
               },
               "title": "22. xhshow2025/-PPT-sense-deck-skill- · ⭐ 22",
@@ -629,7 +629,7 @@
             "open_issues": 1,
             "owner": "zarazhangrui",
             "repo": "beautiful-html-templates",
-            "stars": 4652,
+            "stars": 4655,
             "topics": []
           },
           "title": "T1. zarazhangrui/beautiful-html-templates · ⭐ 3,096",
@@ -667,7 +667,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T00:55:32.936Z",
+    "last_updated": "2026-09-26T00:56:33.885Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of HTML slide generation skills and template libraries for Claude Code, Codex, Cursor, OpenClaw, and Hermes. 精选 HTML 演示文稿 Skill 与模板库。",
@@ -679,7 +679,7 @@
       "open_issues": 1,
       "owner": "ToseaAI",
       "repo": "awesome-html-slide-skills",
-      "stars": 162,
+      "stars": 163,
       "topics": [
         "ai-agents",
         "anthropic",
