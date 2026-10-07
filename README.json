@@ -20,7 +20,7 @@
                 "open_issues": 68,
                 "owner": "zarazhangrui",
                 "repo": "frontend-slides",
-                "stars": 30202,
+                "stars": 30213,
                 "topics": [
                   "ai-slides",
                   "anthropic",
@@ -52,7 +52,7 @@
                 "open_issues": 4,
                 "owner": "alchaincyf",
                 "repo": "huashu-design",
-                "stars": 24620,
+                "stars": 24629,
                 "topics": []
               },
               "title": "2. alchaincyf/huashu-design · ⭐ 19,547",
@@ -73,7 +73,7 @@
                 "open_issues": 49,
                 "owner": "op7418",
                 "repo": "guizang-ppt-skill",
-                "stars": 27286,
+                "stars": 27305,
                 "topics": [
                   "ai-agent",
                   "claude-code",
@@ -102,11 +102,11 @@
                 "id": 1159484260,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T05:58:30Z",
+                "last_commit": "2026-10-06T21:15:11Z",
                 "open_issues": 0,
                 "owner": "nicobailon",
                 "repo": "visual-explainer",
-                "stars": 10270,
+                "stars": 10278,
                 "topics": []
               },
               "title": "4. nicobailon/visual-explainer · ⭐ 8,837",
@@ -127,7 +127,7 @@
                 "open_issues": 8,
                 "owner": "lewislulu",
                 "repo": "html-ppt-skill",
-                "stars": 8586,
+                "stars": 8588,
                 "topics": []
               },
               "title": "5. lewislulu/html-ppt-skill · ⭐ 6,411",
@@ -145,10 +145,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-06T08:08:36Z",
-                "open_issues": 133,
+                "open_issues": 134,
                 "owner": "open-slide",
                 "repo": "open-slide",
-                "stars": 9011,
+                "stars": 9038,
                 "topics": [
                   "agent",
                   "react",
@@ -243,7 +243,7 @@
                 "open_issues": 3,
                 "owner": "vigorX777",
                 "repo": "ppt-svg-generator",
-                "stars": 259,
+                "stars": 258,
                 "topics": []
               },
               "title": "10. vigorX777/ppt-svg-generator · ⭐ 238",
@@ -667,7 +667,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:35:42.609Z",
+    "last_updated": "2026-10-07T01:50:31.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of HTML slide generation skills and template libraries for Claude Code, Codex, Cursor, OpenClaw, and Hermes. 精选 HTML 演示文稿 Skill 与模板库。",
