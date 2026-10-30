@@ -83,7 +83,7 @@ These are the projects most of the others reference, fork, or benchmark against.
 
 ***
 
-#### 1. [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) ⭐ 31,498 | 🐛 71 | 🌐 JavaScript | 📅 2026-06-23 · ⭐ 22,614
+#### 1. [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) ⭐ 31,560 | 🐛 71 | 🌐 JavaScript | 📅 2026-06-23 · ⭐ 22,614
 
 > Create beautiful slides on the web using Claude's frontend skills.
 
@@ -95,11 +95,11 @@ The project that kicked off the modern HTML-slide-skill wave. Built on a "show, 
 * **Light** — Notebook Tabs (editorial, paper with colorful tabs), Pastel Geometry (vertical pills, friendly), Split Pastel (playful two-color vertical split), Vintage Editorial (witty, geometric shapes).
 * **Specialty** — Neon Cyber (particle bg, neon glow), Terminal Green (hacker aesthetic), Swiss Modern (Bauhaus-inspired), Paper & Ink (drop caps and pull quotes).
 
-**Why it stands out**: ergonomic style-discovery flow, a healthy fork ecosystem (see [`frontend-slides-editable`](#9-archlizhengfrontend-slides-editable--362) below), and Anthropic itself uses the project as an example of what skills can do. The full demo video and additional assets live on the [project's README](https://github.com/zarazhangrui/frontend-slides) ⭐ 31,498 | 🐛 71 | 🌐 JavaScript | 📅 2026-06-23.
+**Why it stands out**: ergonomic style-discovery flow, a healthy fork ecosystem (see [`frontend-slides-editable`](#9-archlizhengfrontend-slides-editable--362) below), and Anthropic itself uses the project as an example of what skills can do. The full demo video and additional assets live on the [project's README](https://github.com/zarazhangrui/frontend-slides) ⭐ 31,560 | 🐛 71 | 🌐 JavaScript | 📅 2026-06-23.
 
 ***
 
-#### 2. [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) ⭐ 27,980 | 🐛 6 | 🌐 HTML | 📅 2026-10-23 · ⭐ 19,547
+#### 2. [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) ⭐ 28,113 | 🐛 6 | 🌐 HTML | 📅 2026-10-23 · ⭐ 19,547
 
 > *"Type. Hit enter. A finished design lands in your lap."* — HTML-native design skill for Claude Code · Agent-agnostic · 20 design philosophies · 5-dimension critique · MP4 export.
 
@@ -124,7 +124,7 @@ Install: `npx skills add alchaincyf/huashu-design`.
 
 ***
 
-#### 3. [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) ⭐ 28,873 | 🐛 53 | 🌐 HTML | 📅 2026-08-07 · ⭐ 18,604
+#### 3. [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) ⭐ 28,943 | 🐛 53 | 🌐 HTML | 📅 2026-08-07 · ⭐ 18,604
 
 > A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.
 
@@ -138,7 +138,7 @@ The "magazine voice" of the ecosystem. Two flagship styles you'll recognize on s
 
 ***
 
-#### 4. [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) ⭐ 10,674 | 🐛 5 | 🌐 JavaScript | 📅 2026-10-20 · ⭐ 8,837
+#### 4. [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) ⭐ 10,692 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-20 · ⭐ 8,837
 
 > Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps.
 
@@ -157,7 +157,7 @@ A "Swiss army knife" skill — it'll happily produce a single landing page, a co
 
 ***
 
-#### 5. [lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) ⭐ 8,886 | 🐛 11 | 🌐 HTML | 📅 2026-09-14 · ⭐ 6,411
+#### 5. [lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) ⭐ 8,907 | 🐛 11 | 🌐 HTML | 📅 2026-09-14 · ⭐ 6,411
 
 > HTML PPT Studio — A world-class AgentSkill for producing professional HTML presentations.
 
@@ -179,7 +179,7 @@ By far the most feature-loaded skill on this list. Pure static HTML/CSS/JS, no b
 
 ***
 
-#### 6. [1weiho/open-slide](https://github.com/1weiho/open-slide) ⭐ 9,452 | 🐛 142 | 🌐 TypeScript | 📅 2026-10-29 · ⭐ 5,498
+#### 6. [1weiho/open-slide](https://github.com/1weiho/open-slide) ⭐ 9,465 | 🐛 145 | 🌐 TypeScript | 📅 2026-10-29 · ⭐ 5,498
 
 > The slide framework built for agents. Describe your deck in natural language — your coding agent writes the React. open-slide handles the canvas, scaling, navigation, hot reload, and present mode so the agent can focus on content.
 
@@ -201,7 +201,7 @@ Install: `npx @open-slide/cli init my-slide`.
 
 ***
 
-#### 7. [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) ⭐ 4,888 | 🐛 1 | 🌐 HTML | 📅 2026-06-09 · ⭐ 3,096
+#### 7. [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) ⭐ 4,896 | 🐛 1 | 🌐 HTML | 📅 2026-06-09 · ⭐ 3,096
 
 > A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically.
 
@@ -239,7 +239,7 @@ Notable for treating the HTML→PPTX export problem as a first-class concern, no
 
 ***
 
-#### 9. [archlizheng/frontend-slides-editable](https://github.com/archlizheng/frontend-slides-editable) ⭐ 542 | 🐛 4 | 🌐 HTML | 📅 2026-07-01 · ⭐ 362
+#### 9. [archlizheng/frontend-slides-editable](https://github.com/archlizheng/frontend-slides-editable) ⭐ 543 | 🐛 4 | 🌐 HTML | 📅 2026-07-01 · ⭐ 362
 
 > Editable HTML presentation skill for Codex/Claude Code with drag-resize editing, slide reordering, local save/export, and PPTX-to-web conversion.
 
@@ -272,7 +272,7 @@ Editable fork of `zarazhangrui/frontend-slides`. Keeps the upstream style discov
 
 ***
 
-#### 11. [likaku/Mck-ppt-design-skill](https://github.com/likaku/Mck-ppt-design-skill) ⭐ 319 | 🐛 3 | 🌐 Python | 📅 2026-05-10 · ⭐ 198
+#### 11. [likaku/Mck-ppt-design-skill](https://github.com/likaku/Mck-ppt-design-skill) ⭐ 323 | 🐛 3 | 🌐 Python | 📅 2026-05-10 · ⭐ 198
 
 > Consulting firm–style PowerPoint design system for AI agents. 70 layout patterns, flat design, python-pptx. 麦麸风格 PPT 设计系统。
 
@@ -335,7 +335,7 @@ Every decision — narrative structure, per-slide layout, animation choice — a
 
 #### 15. [software-ai-life/Awesome-PPT-Design-Skills](https://github.com/software-ai-life/Awesome-PPT-Design-Skills) ⭐ 127 | 🐛 0 | 🌐 HTML | 📅 2026-04-28 · ⭐ 56
 
-> Agent-agnostic PPT design skills for generating polished PowerPoint decks with [ppt-master](https://github.com/hugohe3/ppt-master) ⭐ 70,261 | 🐛 1 | 🌐 Python | 📅 2026-10-28.
+> Agent-agnostic PPT design skills for generating polished PowerPoint decks with [ppt-master](https://github.com/hugohe3/ppt-master) ⭐ 70,871 | 🐛 6 | 🌐 Python | 📅 2026-10-29.
 
 Meta-collection rather than a single skill. The author packages multiple distinct visual systems (`japanese-style-ppt-skill`, `soft-3d-clay-ppt-skill`, `futuristic-tech-editorial-ppt-skill`, `minimalist-luxury-branding-ppt-skill`, `modern-illustration-editorial-ppt-skill`, `japanese-hand-drawn-editorial-ppt-skill`) and ships them as a stable visual layer for whichever coding agent you happen to use (Codex, Claude Code, Cursor, OpenCode, OpenClaw, Hermes). Traditional Chinese decks are first-class.
 
@@ -351,7 +351,7 @@ Fully reproduces the 2026 official Kingdee International template design languag
 
 ***
 
-#### 17. [kaisersong/slide-creator](https://github.com/kaisersong/slide-creator) ⭐ 56 | 🐛 0 | 🌐 Python | 📅 2026-10-13 · ⭐ 44
+#### 17. [kaisersong/slide-creator](https://github.com/kaisersong/slide-creator) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2026-10-29 · ⭐ 44
 
 > A skill for Claude Code and OpenClaw that generates stunning, zero-dependency HTML presentations.
 
@@ -370,7 +370,7 @@ Fully reproduces the 2026 official Kingdee International template design languag
 
 ***
 
-#### 18. [FeeiCN/slide-writer](https://github.com/FeeiCN/slide-writer) ⭐ 43 | 🐛 0 | 🌐 HTML | 📅 2026-04-15 · ⭐ 37
+#### 18. [FeeiCN/slide-writer](https://github.com/FeeiCN/slide-writer) ⭐ 44 | 🐛 0 | 🌐 HTML | 📅 2026-04-15 · ⭐ 37
 
 > A slide-writing skill that generates enterprise HTML presentations from ideas, outlines, documents, and speech drafts.
 
@@ -415,7 +415,7 @@ Each style is a complete design system: curated typography, color palette, layou
 
 ***
 
-#### 21. [Phlegonlabs/Powerpoint-fancy-design](https://github.com/Phlegonlabs/Powerpoint-fancy-design) ⭐ 40 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-06 · ⭐ 25
+#### 21. [Phlegonlabs/Powerpoint-fancy-design](https://github.com/Phlegonlabs/Powerpoint-fancy-design) ⭐ 41 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-06 · ⭐ 25
 
 > A presentation-design skill for Codex and Claude Code that turns page-structured Markdown into styled 1600x900 HTML slides, PNG renders, and exportable PPTX decks.
 
@@ -475,7 +475,7 @@ Hand-crafted HTML template libraries — drop them into a project, point your ag
 
 ***
 
-#### T1. [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) ⭐ 4,888 | 🐛 1 | 🌐 HTML | 📅 2026-06-09 · ⭐ 3,096
+#### T1. [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) ⭐ 4,896 | 🐛 1 | 🌐 HTML | 📅 2026-06-09 · ⭐ 3,096
 
 > A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically.
 
@@ -532,4 +532,4 @@ Inline preview images are hot-linked from each project's own GitHub repository (
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
