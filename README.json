@@ -1,13 +1,13 @@
 {
   "items": [
     {
-      "description": "Ordered by GitHub star count, descending. Star counts last refreshed 2026-06-23. Tier cutoffs are heuristics, not value judgments — a 24-star skill targeting Huawei-style decks is probably more useful for that use case than a 17k-star generalist.",
+      "description": "Ordered by GitHub star count, descending. Star counts last refreshed 2026-11-02. Tier cutoffs are heuristics, not value judgments — a 66-star skill targeting Huawei-style decks is probably more useful for that use case than a 31k-star generalist.",
       "items": [
         {
           "children": [
             {
               "children": [],
-              "description": "Create beautiful slides on the web using Claude's frontend skills.\nThe project that kicked off the modern HTML-slide-skill wave. Built on a \"show, don't tell\" philosophy: instead of asking you to describe your aesthetic preferences in words, it generates visual previews and lets you pick what you like. Designed so non-designers can produce decks without ever touching CSS or JavaScript.\nThemes (16, grouped by feel)\nWhy it stands out: ergonomic style-discovery flow, a healthy fork ecosystem (see below), and Anthropic itself uses the project as an example of what skills can do. The full demo video and additional assets live on the project's README.",
+              "description": "Create beautiful slides on the web using a coding agent's frontend skills.\nThe project that kicked off the modern HTML-slide-skill wave. Built on a \"show, don't tell\" philosophy: instead of asking you to describe your aesthetic preferences in words, it generates visual previews and lets you pick what you like. Designed so non-designers can produce decks without ever touching CSS or JavaScript.\nThemes (16, grouped by feel)\nWhy it stands out: ergonomic style-discovery flow, a healthy fork ecosystem (see below), and Anthropic itself uses the project as an example of what skills can do. The full demo video and additional assets live on the project's README.",
               "node_type": "item",
               "repo_info": {
                 "archived": false,
@@ -20,7 +20,7 @@
                 "open_issues": 71,
                 "owner": "zarazhangrui",
                 "repo": "frontend-slides",
-                "stars": 31704,
+                "stars": 31771,
                 "topics": [
                   "ai-slides",
                   "anthropic",
@@ -34,44 +34,12 @@
                   "vibe-coding"
                 ]
               },
-              "title": "1. zarazhangrui/frontend-slides · ⭐ 22,614",
+              "title": "1. zarazhangrui/frontend-slides · ⭐ 31,722",
               "first_seen": "2026-08-28T06:22:52.679Z"
             },
             {
               "children": [],
-              "description": "\"Type. Hit enter. A finished design lands in your lap.\" — HTML-native design skill for Claude Code · Agent-agnostic · 20 design philosophies · 5-dimension critique · MP4 export.\nNot \"decent for AI\" quality — the output looks like a real design team made it. Give it your brand assets (logo, colors, UI screenshots) and it reads your brand voice; give it nothing and the 20 built-in design vocabularies still keep the output out of AI-slop territory.\nInstall: .",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
-                "homepage": null,
-                "id": 1215145625,
-                "language": "HTML",
-                "license": "MIT",
-                "last_commit": "2026-10-30T17:51:13Z",
-                "open_issues": 0,
-                "owner": "alchaincyf",
-                "repo": "huashu-design",
-                "stars": 28404,
-                "topics": [
-                  "agent-skills",
-                  "ai-design",
-                  "claude-code",
-                  "claude-skills",
-                  "codex",
-                  "cursor",
-                  "design",
-                  "html",
-                  "pptx",
-                  "prototype"
-                ]
-              },
-              "title": "2. alchaincyf/huashu-design · ⭐ 19,547",
-              "first_seen": "2026-08-28T06:22:52.679Z"
-            },
-            {
-              "children": [],
-              "description": "A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.\nThe \"magazine voice\" of the ecosystem. Two flagship styles you'll recognize on sight:\nFits: offline sharing, industry-internal talks, private salons, AI product launches, demo day, speaker-led personal-style talks. Doesn't fit: dense tabular data, training materials (too low-density), real-time collaborative editing (static HTML).",
+              "description": "AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.\nThe \"magazine voice\" of the ecosystem. Two flagship styles you'll recognize on sight:\nOutput is a single-file, horizontal-swipe HTML deck with built-in rehearsal and presenter modes; the skill also produces slide illustrations and multi-platform covers. The same author packages it, together with sibling card and page-layout skills, as a DeepSeek Harness plugin: op7418/dsh-guizang-design.\nFits: offline sharing, industry-internal talks, private salons, AI product launches, demo day, speaker-led personal-style talks. Doesn't fit: dense tabular data, training materials (too low-density), real-time collaborative editing (static HTML).",
               "node_type": "item",
               "repo_info": {
                 "archived": false,
@@ -84,7 +52,7 @@
                 "open_issues": 53,
                 "owner": "op7418",
                 "repo": "guizang-ppt-skill",
-                "stars": 29082,
+                "stars": 29167,
                 "topics": [
                   "ai-agent",
                   "claude-code",
@@ -99,7 +67,39 @@
                   "web-ppt"
                 ]
               },
-              "title": "3. op7418/guizang-ppt-skill · ⭐ 18,604",
+              "title": "2. op7418/guizang-ppt-skill · ⭐ 29,109",
+              "first_seen": "2026-08-28T06:22:52.679Z"
+            },
+            {
+              "children": [],
+              "description": "\"Type. Hit enter. A finished design lands in your lap.\" — HTML-native design skill for Claude Code, Codex, Cursor & any agent · editable PPTX · MP4 export.\nNot \"decent for AI\" quality — the output looks like a real design team made it. Give it your brand assets (logo, colors, UI screenshots) and it reads your brand voice; give it nothing and, since 3.0, it sketches six thumbnails and develops the three strongest directions, drawing on a style library of 80+ styles, each with a visual specimen.\nInstall: .",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
+                "homepage": null,
+                "id": 1215145625,
+                "language": "HTML",
+                "license": "MIT",
+                "last_commit": "2026-10-30T17:51:13Z",
+                "open_issues": 0,
+                "owner": "alchaincyf",
+                "repo": "huashu-design",
+                "stars": 28519,
+                "topics": [
+                  "agent-skills",
+                  "ai-design",
+                  "claude-code",
+                  "claude-skills",
+                  "codex",
+                  "cursor",
+                  "design",
+                  "html",
+                  "pptx",
+                  "prototype"
+                ]
+              },
+              "title": "3. alchaincyf/huashu-design · ⭐ 28,440",
               "first_seen": "2026-08-28T06:22:52.679Z"
             },
             {
@@ -117,10 +117,71 @@
                 "open_issues": 5,
                 "owner": "nicobailon",
                 "repo": "visual-explainer",
-                "stars": 10734,
+                "stars": 10752,
                 "topics": []
               },
-              "title": "4. nicobailon/visual-explainer · ⭐ 8,837",
+              "title": "4. nicobailon/visual-explainer · ⭐ 10,739",
+              "first_seen": "2026-08-28T06:22:52.679Z"
+            },
+            {
+              "children": [],
+              "description": "An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.\nThe output is the editor: every page of the generated deck carries its own console — sliders, toggles and dropdowns to switch layouts, change how many modules a page shows, swap palettes or shift the page's emphasis — and any text can be clicked and edited in place. Aimed at work decks (research, reviews, proposals, pitch decks) rather than pixel-level custom design.\nInstall: (Node.js 20+). Licensed AGPL-3.0.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.",
+                "homepage": null,
+                "id": 1264811161,
+                "language": "JavaScript",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-09-12T14:13:08Z",
+                "open_issues": 16,
+                "owner": "chuspeeism",
+                "repo": "dashi-ppt-skill",
+                "stars": 10293,
+                "topics": [
+                  "agent-skill",
+                  "ai-agent",
+                  "ai-ppt",
+                  "claude",
+                  "claude-code",
+                  "dashial",
+                  "html-presentation",
+                  "ppt",
+                  "pptx",
+                  "presentation",
+                  "presentation-generator",
+                  "skill",
+                  "slide-generator",
+                  "slides"
+                ]
+              },
+              "title": "5. chuspeeism/dashi-ppt-skill · ⭐ 10,258",
+              "first_seen": "2026-11-03T03:44:26.951Z"
+            },
+            {
+              "children": [],
+              "description": "The slide framework built for agents. Describe your deck in natural language — your coding agent writes the React. open-slide handles the canvas, scaling, navigation, hot reload, and present mode so the agent can focus on content.\nArchitecturally different from most of Tier S — open-slide is a framework, not a pure markdown skill. Every slide renders into a fixed 1920×1080 canvas as an arbitrary React component, not a constrained DSL. The scaffolder ships with two agent skills ( and ) so the deck-authoring loop stays inside Claude Code / Codex / Cursor. (The repo moved from to the organization.)\nHighlights\nInstall: .",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "A slide framework built for agents.",
+                "homepage": "https://open-slide.dev",
+                "id": 1221509404,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-11-03T02:28:23Z",
+                "open_issues": 148,
+                "owner": "open-slide",
+                "repo": "open-slide",
+                "stars": 9616,
+                "topics": [
+                  "agent",
+                  "react",
+                  "slides"
+                ]
+              },
+              "title": "6. open-slide/open-slide · ⭐ 9,612",
               "first_seen": "2026-08-28T06:22:52.679Z"
             },
             {
@@ -138,35 +199,10 @@
                 "open_issues": 11,
                 "owner": "lewislulu",
                 "repo": "html-ppt-skill",
-                "stars": 8935,
+                "stars": 8955,
                 "topics": []
               },
-              "title": "5. lewislulu/html-ppt-skill · ⭐ 6,411",
-              "first_seen": "2026-08-28T06:22:52.679Z"
-            },
-            {
-              "children": [],
-              "description": "The slide framework built for agents. Describe your deck in natural language — your coding agent writes the React. open-slide handles the canvas, scaling, navigation, hot reload, and present mode so the agent can focus on content.\nArchitecturally different from the rest of Tier S — open-slide is a framework, not a pure markdown skill. Every slide renders into a fixed 1920×1080 canvas as an arbitrary React component, not a constrained DSL. The scaffolder ships with two agent skills ( and ) so the deck-authoring loop stays inside Claude Code / Codex / Cursor.\nHighlights\nInstall: .",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "A slide framework built for agents.",
-                "homepage": "https://open-slide.dev",
-                "id": 1221509404,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-10-29T23:12:34Z",
-                "open_issues": 148,
-                "owner": "open-slide",
-                "repo": "open-slide",
-                "stars": 9611,
-                "topics": [
-                  "agent",
-                  "react",
-                  "slides"
-                ]
-              },
-              "title": "6. 1weiho/open-slide · ⭐ 5,498",
+              "title": "7. lewislulu/html-ppt-skill · ⭐ 8,943",
               "first_seen": "2026-08-28T06:22:52.679Z"
             },
             {
@@ -184,11 +220,32 @@
                 "open_issues": 1,
                 "owner": "zarazhangrui",
                 "repo": "beautiful-html-templates",
-                "stars": 4909,
+                "stars": 4917,
                 "topics": []
               },
-              "title": "7. zarazhangrui/beautiful-html-templates · ⭐ 3,096",
+              "title": "8. zarazhangrui/beautiful-html-templates · ⭐ 4,914",
               "first_seen": "2026-08-28T06:22:52.679Z"
+            },
+            {
+              "children": [],
+              "description": "Use any agent to create stunning, interactive presentations.\nFrom StackBlitz, the team behind Bolt. Like open-slide, it is a React deck framework with a bundled agent skill rather than a single-file template: every slide is a plain React component, so a slide can fetch live data, mount a 3D scene or embed a working prototype. The skill () teaches Claude Code, Codex, Cursor or Bolt how to theme, compose and write the deck.\nThe deck is a web app (Vite build) shared as a link — there is no output. MIT.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Use any agent to create stunning, interactive presentations",
+                "homepage": null,
+                "id": 1300825775,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-07-30T17:58:10Z",
+                "open_issues": 7,
+                "owner": "stackblitz",
+                "repo": "bolt-slides",
+                "stars": 1153,
+                "topics": []
+              },
+              "title": "9. stackblitz/bolt-slides · ⭐ 1,152",
+              "first_seen": "2026-11-03T03:44:26.951Z"
             }
           ],
           "description": "These are the projects most of the others reference, fork, or benchmark against. If you're new to HTML slide skills, start here.",
@@ -215,7 +272,7 @@
                 "stars": 652,
                 "topics": []
               },
-              "title": "8. mucsbr/ppt-agent-workflow-san · ⭐ 597",
+              "title": "10. mucsbr/ppt-agent-workflow-san · ⭐ 652",
               "first_seen": "2026-08-28T06:22:52.679Z"
             },
             {
@@ -236,28 +293,7 @@
                 "stars": 547,
                 "topics": []
               },
-              "title": "9. archlizheng/frontend-slides-editable · ⭐ 362",
-              "first_seen": "2026-08-28T06:22:52.679Z"
-            },
-            {
-              "children": [],
-              "description": "Skill that converts Markdown into HTML/PDF presentations with multiple preset styles.",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "ppt-svg-generator 是一个 Skill，帮助你将 Markdown 文稿快速转化PPT 或 PDF，并支持多种预设风格选择，效果美观且可控。 使用流程参考公众号：懂点儿 AI 👇",
-                "homepage": "https://mp.weixin.qq.com/s/0KhNkuoFkT9zq9I9COVnSg",
-                "id": 1139117869,
-                "language": "HTML",
-                "license": "MIT",
-                "last_commit": "2026-02-14T12:08:44Z",
-                "open_issues": 3,
-                "owner": "vigorX777",
-                "repo": "ppt-svg-generator",
-                "stars": 262,
-                "topics": []
-              },
-              "title": "10. vigorX777/ppt-svg-generator · ⭐ 238",
+              "title": "11. archlizheng/frontend-slides-editable · ⭐ 547",
               "first_seen": "2026-08-28T06:22:52.679Z"
             },
             {
@@ -299,37 +335,30 @@
                   "storyline"
                 ]
               },
-              "title": "11. likaku/Mck-ppt-design-skill · ⭐ 198",
+              "title": "12. likaku/Mck-ppt-design-skill · ⭐ 328",
               "first_seen": "2026-08-28T06:22:52.679Z"
             },
             {
               "children": [],
-              "description": "Reusable slide-generation skill for image-based and HTML-based AI workflows.\nOne of the few skills designed to switch cleanly between image-rendered slides (e.g. for social media carousels) and live HTML decks from the same content IR.",
+              "description": "Skill that converts Markdown into HTML/PDF presentations with multiple preset styles.",
               "node_type": "item",
               "repo_info": {
                 "archived": false,
-                "description": "The workflow for disciplined slide generation. Extract design, plan the deck, render with consistency.",
-                "homepage": "https://future-slide.tonylee.im",
-                "id": 1218924655,
+                "description": "ppt-svg-generator 是一个 Skill，帮助你将 Markdown 文稿快速转化PPT 或 PDF，并支持多种预设风格选择，效果美观且可控。 使用流程参考公众号：懂点儿 AI 👇",
+                "homepage": "https://mp.weixin.qq.com/s/0KhNkuoFkT9zq9I9COVnSg",
+                "id": 1139117869,
                 "language": "HTML",
-                "license": "Apache-2.0",
-                "last_commit": "2026-06-02T13:44:08Z",
-                "open_issues": 0,
-                "owner": "humantonylee",
-                "repo": "future-slide",
-                "stars": 152,
+                "license": "MIT",
+                "last_commit": "2026-02-14T12:08:44Z",
+                "open_issues": 3,
+                "owner": "vigorX777",
+                "repo": "ppt-svg-generator",
+                "stars": 262,
                 "topics": []
               },
-              "title": "12. bytonylee/future-slide-skill · ⭐ 135",
+              "title": "13. vigorX777/ppt-svg-generator · ⭐ 262",
               "first_seen": "2026-08-28T06:22:52.679Z"
-            }
-          ],
-          "description": "Mature, actively maintained skills with a clear style point of view. Best when you know roughly what you want — e.g. \"I need a McKinsey-style consulting deck\" — and want a skill that does only that, well.",
-          "node_type": "group",
-          "title": "Tier A · Production-ready / 100–1000 stars"
-        },
-        {
-          "children": [
+            },
             {
               "children": [],
               "description": "World-class AI presentation generator · 26 styles · 18 charts · benchmarked against Linear / Anthropic / Stripe / Apple / NYT.\nModels a full agency workflow rather than \"outline → template\": research first, content drives layout, global style stays consistent, real data fills placeholders. Visual fidelity is benchmarked against actual production CSS of brands like Linear and Anthropic — not screenshots, the real implementations.\nStyle families",
@@ -345,7 +374,7 @@
                 "open_issues": 0,
                 "owner": "Akxan",
                 "repo": "ppt-agent-skill",
-                "stars": 172,
+                "stars": 175,
                 "topics": [
                   "ai-agent",
                   "ai-presentation",
@@ -369,9 +398,144 @@
                   "world-class-design"
                 ]
               },
-              "title": "13. Akxan/ppt-agent-skill · ⭐ 91",
+              "title": "14. Akxan/ppt-agent-skill · ⭐ 172",
               "first_seen": "2026-08-28T06:22:52.679Z"
             },
+            {
+              "children": [],
+              "description": "Reusable slide-generation skill for image-based and HTML-based AI workflows.\nOne of the few skills designed to switch cleanly between image-rendered slides (e.g. for social media carousels) and live HTML decks from the same content IR. (Formerly .)",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "The workflow for disciplined slide generation. Extract design, plan the deck, render with consistency.",
+                "homepage": "https://future-slide.tonylee.im",
+                "id": 1218924655,
+                "language": "HTML",
+                "license": "Apache-2.0",
+                "last_commit": "2026-06-02T13:44:08Z",
+                "open_issues": 0,
+                "owner": "humantonylee",
+                "repo": "future-slide",
+                "stars": 152,
+                "topics": []
+              },
+              "title": "15. humantonylee/future-slide · ⭐ 152",
+              "first_seen": "2026-08-28T06:22:52.679Z"
+            },
+            {
+              "children": [],
+              "description": "Agent-agnostic PPT design skills for generating polished PowerPoint decks with ppt-master.\nMeta-collection rather than a single skill. The author packages multiple distinct visual systems (, , , , , ) and ships them as a stable visual layer for whichever coding agent you happen to use (Codex, Claude Code, Cursor, OpenCode, OpenClaw, Hermes). Traditional Chinese decks are first-class.\nAlso listed under Templates below.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Agent-agnostic PPT design skills for creating high-end, editable presentation styles.",
+                "homepage": null,
+                "id": 1219828173,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-04-28T03:49:00Z",
+                "open_issues": 0,
+                "owner": "software-ai-life",
+                "repo": "Awesome-PPT-Design-Skills",
+                "stars": 131,
+                "topics": [
+                  "agent-skills",
+                  "ai-agent",
+                  "ppt-design",
+                  "pptx",
+                  "skills"
+                ]
+              },
+              "title": "16. software-ai-life/Awesome-PPT-Design-Skills · ⭐ 130",
+              "first_seen": "2026-08-28T06:22:52.679Z"
+            },
+            {
+              "children": [],
+              "description": "Turn source material into an editable, presentable, offline-ready bento deck — one self-contained HTML file.\nBuilds decks in the bento format, where one file carries the document, the viewer and the editor — the recipient double-clicks it to present, edit and save, with no PowerPoint install or cloud login. The skill first settles audience, conclusion and narrative arc, then routes each piece of content to a fitting primitive: trends to charts, specs to tables, before/after to morphs, key numbers to count-ups.\nInstall: .",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Use the standalone qiaomu-bento-ppt skill to create or edit qiaomu-style bento presentations as self-contained .bento.html files from briefs, notes, r",
+                "homepage": null,
+                "id": 1312153246,
+                "language": "HTML",
+                "license": "MIT",
+                "last_commit": "2026-07-27T02:04:15Z",
+                "open_issues": 0,
+                "owner": "joeseesun",
+                "repo": "qiaomu-bento-ppt",
+                "stars": 127,
+                "topics": []
+              },
+              "title": "17. joeseesun/qiaomu-bento-ppt · ⭐ 127",
+              "first_seen": "2026-11-03T03:44:26.951Z"
+            },
+            {
+              "children": [],
+              "description": "Scroll-driven presentation decks: one continuous timeline, beats that turn into the next, six concept packs and 80 moves.\nDespite the name, this is a tool (Scrolline) with a Claude Code skill, not a list. You write a ; every beat is laid on one paused GSAP timeline that the mouse wheel scrubs and presenter keys jump through, and the same timeline renders to MP4. Instead of cutting between slides, \"link moves\" carry an element (a bar, a dot, a date) from one beat into its place in the next.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Scroll-driven presentation decks: one continuous timeline, beats that turn into the next, six concept packs and 80 moves.",
+                "homepage": "https://scrolline-v2-hub.vercel.app/",
+                "id": 1377851637,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-10-08T13:04:57Z",
+                "open_issues": 2,
+                "owner": "gongnyang",
+                "repo": "awesome-html-scrolline-deck",
+                "stars": 102,
+                "topics": [
+                  "claude-code",
+                  "gsap",
+                  "lenis",
+                  "presentation",
+                  "scrolltrigger",
+                  "scrollytelling",
+                  "skill",
+                  "vite"
+                ]
+              },
+              "title": "18. gongnyang/awesome-html-scrolline-deck · ⭐ 102",
+              "first_seen": "2026-11-03T03:44:26.951Z"
+            },
+            {
+              "children": [],
+              "description": "Talks as beats, not slides: a fixed 1920×1080 React stage where one click is one beat. Offline, deterministic, presenter view, and a Claude Code skill.\nBuilt for speaker-led technical talks where a diagram grows, a counter runs or a terminal prints on cue. A talk is a few scenes, each a sequence of beats; the whole state is , so in the URL always renders the same frame whether you arrived going forward, going back or by refreshing.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Talks as beats, not slides: a fixed 1920×1080 React stage where one click is one beat. Offline, deterministic, presenter view, and a Claude Code skill.",
+                "homepage": null,
+                "id": 1399956919,
+                "language": "TypeScript",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-01T18:55:53Z",
+                "open_issues": 3,
+                "owner": "borjaperfra",
+                "repo": "beatdeck",
+                "stars": 101,
+                "topics": [
+                  "claude-code",
+                  "claude-skill",
+                  "gsap",
+                  "presentation",
+                  "react",
+                  "slides",
+                  "talk"
+                ]
+              },
+              "title": "19. borjaperfra/beatdeck · ⭐ 100",
+              "first_seen": "2026-11-03T03:44:26.951Z"
+            }
+          ],
+          "description": "Mature, actively maintained skills with a clear style point of view. Best when you know roughly what you want — e.g. \"I need a McKinsey-style consulting deck\" — and want a skill that does only that, well.",
+          "node_type": "group",
+          "title": "Tier A · Production-ready / 100–1000 stars"
+        },
+        {
+          "children": [
             {
               "children": [],
               "description": "An HTML slide design skill grounded in cognitive science and instructional design. Outputs presentation decks optimized for knowledge retention.\nEvery decision — narrative structure, per-slide layout, animation choice — answers a single question: what cognitive action does the audience need to perform here?\nBest for: teachers, researchers, PhD students, content creators (voice-over videos, knowledge channels), internal training and talks. Not for: pure commercial decks (PowerPoint / Keynote ship faster), real-time collaborative editing (use Google Slides).",
@@ -390,35 +554,112 @@
                 "stars": 89,
                 "topics": []
               },
-              "title": "14. edu-ai-builders/visual-cognition-slides · ⭐ 72",
+              "title": "20. edu-ai-builders/visual-cognition-slides · ⭐ 89",
               "first_seen": "2026-08-28T06:22:52.679Z"
             },
             {
               "children": [],
-              "description": "Agent-agnostic PPT design skills for generating polished PowerPoint decks with ppt-master.\nMeta-collection rather than a single skill. The author packages multiple distinct visual systems (, , , , , ) and ships them as a stable visual layer for whichever coding agent you happen to use (Codex, Claude Code, Cursor, OpenCode, OpenClaw, Hermes). Traditional Chinese decks are first-class.\nAlso listed under Templates below.",
+              "description": "SlideBlocks agent skill for creating and improving Slidev presentations.\nBuilds on Slidev: hand the agent your materials (e.g. \"turn this paper into a 15-minute research talk\") and it writes the Slidev source, then gives you an to present from Chrome or Edge — fullscreen, presenter view, slide overview and annotation tools. Ordinary text can be double-clicked and edited in the browser and saved with ⌘/Ctrl + S; right-click exports offline HTML or PDF. No output; an agent with image-generation tools is recommended. MIT.\nInstall: .",
               "node_type": "item",
               "repo_info": {
                 "archived": false,
-                "description": "Agent-agnostic PPT design skills for creating high-end, editable presentation styles.",
+                "description": "SlideBlocks agent skill for creating and improving Slidev presentations",
                 "homepage": null,
-                "id": 1219828173,
-                "language": "HTML",
-                "license": null,
-                "last_commit": "2026-04-28T03:49:00Z",
+                "id": 1359085049,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-10-30T08:07:37Z",
                 "open_issues": 0,
-                "owner": "software-ai-life",
-                "repo": "Awesome-PPT-Design-Skills",
-                "stars": 129,
+                "owner": "UniUni2000",
+                "repo": "slideblocks-skill",
+                "stars": 81,
+                "topics": []
+              },
+              "title": "21. UniUni2000/slideblocks-skill · ⭐ 81",
+              "first_seen": "2026-11-03T03:44:26.951Z"
+            },
+            {
+              "children": [],
+              "description": "An agent skill by Xiaoer (小耳) for creating expressive HTML presentation decks in multiple visual styles.\nStarted as a paper-cut collage style (小耳剪纸风) and now ships a small style gallery: 好奇果冻 3D (translucent jelly type and clay objects, Three.js), 顽趣实验室 3D (a playful lab with original monster characters) and 小耳几何风 (flat, interlocking geometric grids).",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "小耳剪纸风 Xiaoer Paper Collage:剪纸拼贴网页 PPT skill,14 套艺术史配色+一键换肤+滑杆+20 布局+可编辑 PPTX,文字真 HTML 永不乱码",
+                "homepage": null,
+                "id": 1315780685,
+                "language": "HTML",
+                "license": "MIT",
+                "last_commit": "2026-08-25T04:43:26Z",
+                "open_issues": 0,
+                "owner": "Jane-xiaoer",
+                "repo": "paper-collage-ppt",
+                "stars": 68,
+                "topics": []
+              },
+              "title": "22. Jane-xiaoer/paper-collage-ppt · ⭐ 68",
+              "first_seen": "2026-11-03T03:44:26.951Z"
+            },
+            {
+              "children": [],
+              "description": "华为风格 PPT Skill — high-density information PPT workflow.\nEnd-to-end workflow specifically tuned for Huawei-style strategy pages, architecture overviews, data insights, and side-by-side solution comparisons — i.e. document-style high-density decks that are intentionally heavier than a typical slide.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "华为风格PPT Skill - 高密度信息PPT制作工作流",
+                "homepage": null,
+                "id": 1205109397,
+                "language": null,
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-20T13:06:43Z",
+                "open_issues": 1,
+                "owner": "zuiho-kai",
+                "repo": "huawei-style-ppt-skill",
+                "stars": 66,
+                "topics": []
+              },
+              "title": "23. zuiho-kai/huawei-style-ppt-skill · ⭐ 66",
+              "first_seen": "2026-08-28T06:22:52.679Z"
+            },
+            {
+              "children": [],
+              "description": "Make a presentation with your coding agent. Preview two slides, approve, then build and export to PowerPoint or PDF.\nA preview-first loop: from a topic, rough notes or an outline it generates a custom palette and typography plus a two-slide preview, and builds the full self-contained HTML deck only after you approve (or generates a fresh direction if you don't). Includes speaker view with notes, overview and blackout keys, and can deploy the deck to a live URL. PowerPoint export keeps text as editable text boxes with speaker notes, while shapes, charts and images are baked into each slide's background. Installs as a Claude Code plugin or into any agent. MIT.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Make a presentation with your coding agent. Preview two slides, approve, then build and export to PowerPoint or PDF. Works with Claude Code, Codex, Gemini CLI, OpenCode, Cursor, and other SKILL.md agents.",
+                "homepage": null,
+                "id": 1270170443,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-10-24T07:43:45Z",
+                "open_issues": 0,
+                "owner": "arifszn",
+                "repo": "slide-wright",
+                "stars": 66,
                 "topics": [
                   "agent-skills",
-                  "ai-agent",
-                  "ppt-design",
+                  "ai",
+                  "ai-presentation",
+                  "claude-code",
+                  "claude-code-plugin",
+                  "claude-skills",
+                  "codex",
+                  "cursor",
+                  "html",
+                  "powerpoint",
                   "pptx",
-                  "skills"
+                  "presentation-generator",
+                  "presentations",
+                  "reveal-js",
+                  "skill-md",
+                  "skills",
+                  "slide-deck",
+                  "slides",
+                  "slideshow-maker"
                 ]
               },
-              "title": "15. software-ai-life/Awesome-PPT-Design-Skills · ⭐ 56",
-              "first_seen": "2026-08-28T06:22:52.679Z"
+              "title": "24. arifszn/slide-wright · ⭐ 66",
+              "first_seen": "2026-11-03T03:44:26.951Z"
             },
             {
               "children": [],
@@ -438,7 +679,7 @@
                 "stars": 59,
                 "topics": []
               },
-              "title": "16. WayneZhon/KingDee-PPT-Skill · ⭐ 54",
+              "title": "25. WayneZhon/KingDee-PPT-Skill · ⭐ 59",
               "first_seen": "2026-08-28T06:22:52.679Z"
             },
             {
@@ -459,8 +700,71 @@
                 "stars": 57,
                 "topics": []
               },
-              "title": "17. kaisersong/slide-creator · ⭐ 44",
+              "title": "26. kaisersong/slide-creator · ⭐ 57",
               "first_seen": "2026-08-28T06:22:52.679Z"
+            },
+            {
+              "children": [],
+              "description": "你的下个 slide，何必是 PPT — AI-powered HTML presentations. 26+ styles, zero dependencies, bilingual. Works with Claude Code & OpenClaw, Hermes Agent.\nEach style is a complete design system: curated typography, color palette, layout patterns, signature animations, responsive breakpoints.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "你的下个 slide，何必是 PPT — AI-powered HTML presentations. 26+ styles, zero dependencies, bilingual. Works with Claude Code & OpenClaw.",
+                "homepage": null,
+                "id": 1200170264,
+                "language": "HTML",
+                "license": "MIT",
+                "last_commit": "2026-04-17T01:32:35Z",
+                "open_issues": 0,
+                "owner": "codesstar",
+                "repo": "next-slide",
+                "stars": 55,
+                "topics": []
+              },
+              "title": "27. codesstar/next-slide · ⭐ 55",
+              "first_seen": "2026-08-28T06:22:52.679Z"
+            },
+            {
+              "children": [],
+              "description": "Build animated, themed HTML lecture and workshop decks from a storyboard. A Claude skill plus a Python kit with three themes.\nDesigned for live teaching sessions (in a room or on Zoom) with breakouts and screen-share handoffs: one claim per screen, one picture that shows the mechanism, speaker notes that carry the depth, and a mode strip on every screen so the room always knows who has the screen. Each deck is one self-contained HTML file with keyboard navigation, notes panel, overview, blackout, print-to-handout and copy-to-clipboard prompts. Three themes ship (, , ) — a theme is one JSON file — and bundled scripts render a PNG per screen for checking. MIT.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Build animated, themed HTML lecture and workshop decks from a storyboard. A Claude skill plus a Python kit with three themes.",
+                "homepage": null,
+                "id": 1367295135,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-12T12:52:49Z",
+                "open_issues": 1,
+                "owner": "RinDig",
+                "repo": "lecture-deck-skill",
+                "stars": 52,
+                "topics": []
+              },
+              "title": "28. RinDig/lecture-deck-skill · ⭐ 51",
+              "first_seen": "2026-11-03T03:44:26.951Z"
+            },
+            {
+              "children": [],
+              "description": "Build slide decks as a harness-guarded engineering project — robust, maintainable, and hard to break. A step up from single-file HTML slides.\nFor the phase after the first draft, when a growing deck starts breaking under edits. The skill has the agent treat the deck as a small, testable web app: stable scene and beat addresses, a registry tooling can enumerate, a fixed-ratio stage, a frozen mode for repeatable screenshots, event-isolated interactions, and smoke tests for missing content, overflow and navigation leaks. Style presets span six families (Minimal Keynote, Balanced Hybrid, Editorial & Print, Craft & Cultural Traditions, Contemporary Digital, Text Report). Ships as a live site, a PDF, or both. MIT.\nInstall: .",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Build slide decks as a harness-guarded engineering project — robust, maintainable, and hard to break. A step up from single-file HTML slides.",
+                "homepage": null,
+                "id": 1283169213,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2026-10-10T21:49:01Z",
+                "open_issues": 0,
+                "owner": "patrick-fu",
+                "repo": "frontend-harness-slides",
+                "stars": 45,
+                "topics": []
+              },
+              "title": "29. patrick-fu/frontend-harness-slides · ⭐ 45",
+              "first_seen": "2026-11-03T03:44:26.951Z"
             },
             {
               "children": [],
@@ -489,49 +793,7 @@
                   "slides"
                 ]
               },
-              "title": "18. FeeiCN/slide-writer · ⭐ 37",
-              "first_seen": "2026-08-28T06:22:52.679Z"
-            },
-            {
-              "children": [],
-              "description": "华为风格 PPT Skill — high-density information PPT workflow.\nEnd-to-end workflow specifically tuned for Huawei-style strategy pages, architecture overviews, data insights, and side-by-side solution comparisons — i.e. document-style high-density decks that are intentionally heavier than a typical slide.",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "华为风格PPT Skill - 高密度信息PPT制作工作流",
-                "homepage": null,
-                "id": 1205109397,
-                "language": null,
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-20T13:06:43Z",
-                "open_issues": 1,
-                "owner": "zuiho-kai",
-                "repo": "huawei-style-ppt-skill",
-                "stars": 66,
-                "topics": []
-              },
-              "title": "19. zuiho-kai/huawei-style-ppt-skill · ⭐ 35",
-              "first_seen": "2026-08-28T06:22:52.679Z"
-            },
-            {
-              "children": [],
-              "description": "你的下个 slide，何必是 PPT — AI-powered HTML presentations. 26+ styles, zero dependencies, bilingual. Works with Claude Code & OpenClaw, Hermes Agent.\nEach style is a complete design system: curated typography, color palette, layout patterns, signature animations, responsive breakpoints.",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "你的下个 slide，何必是 PPT — AI-powered HTML presentations. 26+ styles, zero dependencies, bilingual. Works with Claude Code & OpenClaw.",
-                "homepage": null,
-                "id": 1200170264,
-                "language": "HTML",
-                "license": "MIT",
-                "last_commit": "2026-04-17T01:32:35Z",
-                "open_issues": 0,
-                "owner": "codesstar",
-                "repo": "next-slide",
-                "stars": 55,
-                "topics": []
-              },
-              "title": "20. codesstar/next-slide · ⭐ 34",
+              "title": "30. FeeiCN/slide-writer · ⭐ 44",
               "first_seen": "2026-08-28T06:22:52.679Z"
             },
             {
@@ -562,28 +824,7 @@
                   "slide-generator"
                 ]
               },
-              "title": "21. Phlegonlabs/Powerpoint-fancy-design · ⭐ 25",
-              "first_seen": "2026-08-28T06:22:52.679Z"
-            },
-            {
-              "children": [],
-              "description": "鲸格 PPT — a Codex Skill for generating high-quality browser-native presentations.\nStatic HTML/CSS/JS output with a complete pipeline: content IR, theme system, full deck templates, single-page layouts, animation runtime, presenter mode, editable mode, gesture controls, export helpers.\nDistinctive themes",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "鲸格PPT：17种视觉风格，可编辑HTML演示文稿、汇报、讲堂与发布模板。",
-                "homepage": null,
-                "id": 1223305346,
-                "language": "HTML",
-                "license": null,
-                "last_commit": "2026-10-20T15:25:45Z",
-                "open_issues": 0,
-                "owner": "jxshow",
-                "repo": "Jingge-PPT-skill",
-                "stars": 25,
-                "topics": []
-              },
-              "title": "22. xhshow2025/-PPT-sense-deck-skill- · ⭐ 22",
+              "title": "31. Phlegonlabs/Powerpoint-fancy-design · ⭐ 42",
               "first_seen": "2026-08-28T06:22:52.679Z"
             },
             {
@@ -611,7 +852,28 @@
                   "zero-dependencies"
                 ]
               },
-              "title": "23. nghiahsgs/skills-slides · ⭐ 22",
+              "title": "32. nghiahsgs/skills-slides · ⭐ 33",
+              "first_seen": "2026-08-28T06:22:52.679Z"
+            },
+            {
+              "children": [],
+              "description": "鲸格PPT：17种视觉风格，可编辑HTML演示文稿、汇报、讲堂与发布模板。 — 17 visual styles; editable HTML decks and templates for reports, lectures and launches.\n鲸格 PPT — a Codex Skill for generating high-quality browser-native presentations. Static HTML/CSS/JS output with a complete pipeline: content IR, theme system, full deck templates, single-page layouts, animation runtime, presenter mode, editable mode, gesture controls, export helpers. (Formerly .)\nDistinctive themes",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "鲸格PPT：17种视觉风格，可编辑HTML演示文稿、汇报、讲堂与发布模板。",
+                "homepage": null,
+                "id": 1223305346,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-10-20T15:25:45Z",
+                "open_issues": 0,
+                "owner": "jxshow",
+                "repo": "Jingge-PPT-skill",
+                "stars": 25,
+                "topics": []
+              },
+              "title": "33. jxshow/Jingge-PPT-skill · ⭐ 25",
               "first_seen": "2026-08-28T06:22:52.679Z"
             }
           ],
@@ -621,6 +883,200 @@
         }
       ],
       "title": "Skills"
+    },
+    {
+      "description": "HTML is the better authoring format, but many decks end up with someone who only works in PowerPoint — a client who wants to change the numbers, an event that only accepts uploads, a team whose templates live in Office. \"Export to PPTX\" can mean two quite different files, so check which one a tool produces:\nBuilt into skills on this list\nConverting an existing HTML deck\nAnthropic's skill (in ) used to ship an workflow — author slides as HTML, convert them with a bundled script. That workflow was removed in February 2026; the current skill has the agent write PptxGenJS scripts directly, plus validation and thumbnail tools. It fits when you are happy for the agent to rebuild the deck natively rather than convert your HTML. The skill is source-available under a proprietary license.\nRasterize, then rebuild\nWhen a deck relies on things a DOM-to-shape converter can't follow (WebGL backgrounds, canvas, 3D), export it to PDF or slide screenshots first — most skills above can export PDF, or print from Chrome — then use a tool that reconstructs editable text boxes and shapes from the images:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "atharva9167j/dom-to-pptx",
+          "description": "389 Client-side JavaScript library built on PptxGenJS: walks the DOM, reads computed styles and maps elements to native shapes and text boxes; v2 adds speaker notes and PowerPoint animations / transitions. Also installs as an agent skill (). MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A client-side library that converts any HTML element into a fully editable PowerPoint slide. **dom-to-pptx** transforms DOM structures into pixel-accurate `.pptx` content, preserving gradients, shadows, rounded images, and responsive layouts.",
+            "homepage": "https://www.npmjs.com/package/dom-to-pptx",
+            "id": 1107187814,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-10-18T08:40:36Z",
+            "open_issues": 7,
+            "owner": "atharva9167j",
+            "repo": "dom-to-pptx",
+            "stars": 389,
+            "topics": [
+              "client-side-pptx",
+              "convert-html",
+              "css-to-powerpoint",
+              "css-to-pptx",
+              "dom",
+              "dom-to-pptx",
+              "html-to-powerpoint",
+              "html-to-ppt",
+              "html-to-pptx",
+              "layout-engine",
+              "npm-package",
+              "powerpoint",
+              "powerpoint-presentation",
+              "pptx",
+              "pptx-creator",
+              "presentation-generator",
+              "slides-creation",
+              "web-to-powerpoint",
+              "web-to-pptx"
+            ]
+          },
+          "first_seen": "2026-11-03T03:44:26.951Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Hasasasa/html-to-editable-pptx",
+          "description": "94 Agent skill + Python CLI for single-file decks (beautiful-html-templates, guizang-ppt-skill, Reveal.js, hand-written). Native text boxes, on-demand font subsetting, local snapshots for CSS effects PowerPoint can't express, and HTML-vs-PPTX side-by-side audit images. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Convert HTML slide decks to truly editable PPT / .pptx - text stays native PowerPoint textboxes, not screenshots. Agent Skill (Claude Code / Cursor / Codex / opencode) + plain Python CLI.",
+            "homepage": null,
+            "id": 1247522977,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-07-07T09:55:18Z",
+            "open_issues": 0,
+            "owner": "Hasasasa",
+            "repo": "html-to-editable-pptx",
+            "stars": 94,
+            "topics": [
+              "agent-skills",
+              "ai-agent",
+              "claude-code",
+              "claude-skill",
+              "converter",
+              "google-fonts",
+              "html",
+              "html-to-ppt",
+              "html-to-pptx",
+              "html2ppt",
+              "html2pptx",
+              "ooxml",
+              "powerpoint",
+              "ppt",
+              "pptx",
+              "presentation",
+              "skills",
+              "slides",
+              "visual-audit"
+            ]
+          },
+          "first_seen": "2026-11-03T03:44:26.951Z"
+        },
+        {
+          "node_type": "item",
+          "title": "wangzan101/html-to-ppt-pdf",
+          "description": "40 Skill for guizang-ppt-skill decks: Playwright captures each page at 1920×1080 into a PDF and an image-per-slide PPTX. Not editable, but visually exact. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Agents skill — convert guizang-ppt-skill HTML decks to PDF + PPTX for offline presentations ·  guizang-ppt-skill 的横向翻页 HTML deck 转成 PDF + PPTX(图片型),供线下演讲",
+            "homepage": null,
+            "id": 1254116142,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-06-16T09:33:04Z",
+            "open_issues": 1,
+            "owner": "wangzan101",
+            "repo": "html-to-ppt-pdf",
+            "stars": 40,
+            "topics": []
+          },
+          "first_seen": "2026-11-03T03:44:26.951Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Design-Arena/html-to-pptx",
+          "description": "25 Python CLI / library () that measures every DOM element in headless Chromium and maps it to a PPTX shape. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Convert HTML slide decks to editable PowerPoint files using browser-based DOM measurement",
+            "homepage": null,
+            "id": 1276497690,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-29T06:23:23Z",
+            "open_issues": 0,
+            "owner": "Design-Arena",
+            "repo": "html-to-pptx",
+            "stars": 25,
+            "topics": []
+          },
+          "first_seen": "2026-11-03T03:44:26.951Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ningzimu/image-to-editable-ppt-skill",
+          "description": "3,217 ⭐ — open-source Codex skill that rebuilds slide images, PDFs and image-based PPTX page by page: OCR'd text becomes native text boxes, simple geometry becomes shapes, complex visuals stay as separate image assets. Runs on your own Codex quota (its README recommends ChatGPT Pro for multi-page decks). MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Codex skill for converting slide images, PDFs, and image-based PPTX files into editable PowerPoint decks.",
+            "homepage": "https://ppt-skill.ningzimu.vip",
+            "id": 1245952606,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-16T06:41:12Z",
+            "open_issues": 2,
+            "owner": "ningzimu",
+            "repo": "image-to-editable-ppt-skill",
+            "stars": 3230,
+            "topics": [
+              "codex",
+              "codex-skill",
+              "editable-ppt",
+              "image-to-ppt",
+              "imagegen",
+              "multi-agent",
+              "pdf-to-pptx",
+              "powerpoint",
+              "pptx",
+              "presentation"
+            ]
+          },
+          "first_seen": "2026-11-03T03:44:26.951Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ToseaAI/editable-pptx-skill",
+          "description": "A Claude Code / Codex skill that sends PDFs, slide screenshots or images to the Reslide API and returns an editable PPTX. Billed per page; new accounts get 10 free pages. (Made by Tosea.ai, which maintains this list.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Agent skill for Claude Code and Codex: turn PDFs, slide screenshots, NotebookLM exports and AI-generated slide images into editable PowerPoint (PPTX)",
+            "homepage": "https://reslide.tosea.ai",
+            "id": 1442684161,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-02T08:11:37Z",
+            "open_issues": 0,
+            "owner": "ToseaAI",
+            "repo": "editable-pptx-skill",
+            "stars": 0,
+            "topics": [
+              "agent-skills",
+              "claude-code",
+              "claude-skills",
+              "codex",
+              "editable-pptx",
+              "image-to-pptx",
+              "notebooklm",
+              "pdf-to-pptx",
+              "powerpoint",
+              "pptx"
+            ]
+          },
+          "first_seen": "2026-11-03T03:44:26.951Z"
+        }
+      ],
+      "title": "Export to editable PowerPoint (PPTX)"
     },
     {
       "description": "Hand-crafted HTML template libraries — drop them into a project, point your agent at the folder, get a deck.",
@@ -640,10 +1096,10 @@
             "open_issues": 1,
             "owner": "zarazhangrui",
             "repo": "beautiful-html-templates",
-            "stars": 4909,
+            "stars": 4917,
             "topics": []
           },
-          "title": "T1. zarazhangrui/beautiful-html-templates · ⭐ 3,096",
+          "title": "T1. zarazhangrui/beautiful-html-templates · ⭐ 4,914",
           "first_seen": "2026-08-28T06:22:52.679Z"
         },
         {
@@ -661,7 +1117,7 @@
             "open_issues": 0,
             "owner": "software-ai-life",
             "repo": "Awesome-PPT-Design-Skills",
-            "stars": 129,
+            "stars": 131,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -670,7 +1126,7 @@
               "skills"
             ]
           },
-          "title": "T2. software-ai-life/Awesome-PPT-Design-Skills · ⭐ 56",
+          "title": "T2. software-ai-life/Awesome-PPT-Design-Skills · ⭐ 130",
           "first_seen": "2026-08-28T06:22:52.679Z"
         }
       ],
@@ -678,7 +1134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T01:53:56.973Z",
+    "last_updated": "2026-11-03T03:44:26.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of HTML slide generation skills and template libraries for Claude Code, Codex, Cursor, OpenClaw, and Hermes. 精选 HTML 演示文稿 Skill 与模板库。",
@@ -686,11 +1142,11 @@
       "id": 1237257052,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-06-23T15:46:05Z",
+      "last_commit": "2026-11-02T08:12:08Z",
       "open_issues": 2,
       "owner": "ToseaAI",
       "repo": "awesome-html-slide-skills",
-      "stars": 184,
+      "stars": 186,
       "topics": [
         "ai-agents",
         "anthropic",
@@ -707,7 +1163,7 @@
         "slides"
       ]
     },
-    "original_repository_sha": "238ef7139efc83d3ca98916bc5d7f49a0cf9b565",
+    "original_repository_sha": "381f38b105956722ba25450afd7660f86407960f",
     "enhanced_repository": "enhansome/enhansome-html-slide-skills",
     "enhanced_repository_description": null,
     "title": "Awesome html slide skills with stars"
