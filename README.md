@@ -85,7 +85,7 @@ These are the projects most of the others reference, fork, or benchmark against.
 
 ***
 
-#### 1. [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) ⭐ 31,832 | 🐛 71 | 🌐 JavaScript | 📅 2026-06-23 · ⭐ 31,722
+#### 1. [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) ⭐ 31,894 | 🐛 71 | 🌐 JavaScript | 📅 2026-06-23 · ⭐ 31,722
 
 > Create beautiful slides on the web using a coding agent's frontend skills.
 
@@ -97,11 +97,11 @@ The project that kicked off the modern HTML-slide-skill wave. Built on a "show, 
 * **Light** — Notebook Tabs (editorial, paper with colorful tabs), Pastel Geometry (vertical pills, friendly), Split Pastel (playful two-color vertical split), Vintage Editorial (witty, geometric shapes).
 * **Specialty** — Neon Cyber (particle bg, neon glow), Terminal Green (hacker aesthetic), Swiss Modern (Bauhaus-inspired), Paper & Ink (drop caps and pull quotes).
 
-**Why it stands out**: ergonomic style-discovery flow, a healthy fork ecosystem (see [`frontend-slides-editable`](#11-archlizhengfrontend-slides-editable---547) below), and Anthropic itself uses the project as an example of what skills can do. The full demo video and additional assets live on the [project's README](https://github.com/zarazhangrui/frontend-slides) ⭐ 31,832 | 🐛 71 | 🌐 JavaScript | 📅 2026-06-23.
+**Why it stands out**: ergonomic style-discovery flow, a healthy fork ecosystem (see [`frontend-slides-editable`](#11-archlizhengfrontend-slides-editable---547) below), and Anthropic itself uses the project as an example of what skills can do. The full demo video and additional assets live on the [project's README](https://github.com/zarazhangrui/frontend-slides) ⭐ 31,894 | 🐛 71 | 🌐 JavaScript | 📅 2026-06-23.
 
 ***
 
-#### 2. [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) ⭐ 29,218 | 🐛 53 | 🌐 HTML | 📅 2026-10-30 · ⭐ 29,109
+#### 2. [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) ⭐ 29,295 | 🐛 53 | 🌐 HTML | 📅 2026-10-30 · ⭐ 29,109
 
 > AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 
@@ -115,14 +115,14 @@ The "magazine voice" of the ecosystem. Two flagship styles you'll recognize on s
 * **Style A — 电子杂志 × 电子墨水**. Monocle meets code. Narrative, opinion, sharing, personal-voice talks.
 * **Style B — 瑞士国际主义**. Grid-first, single high-saturation anchor color, hairline rules, extreme type-scale contrast. Product launches, analysis, methodology.
 
-Output is a single-file, horizontal-swipe HTML deck with built-in rehearsal and presenter modes; the skill also produces slide illustrations and multi-platform covers. The same author packages it, together with sibling card and page-layout skills, as a DeepSeek Harness plugin: [op7418/dsh-guizang-design](https://github.com/op7418/dsh-guizang-design) ⭐ 379 | 🐛 0 | 🌐 HTML | 📅 2026-10-31.
+Output is a single-file, horizontal-swipe HTML deck with built-in rehearsal and presenter modes; the skill also produces slide illustrations and multi-platform covers. The same author packages it, together with sibling card and page-layout skills, as a DeepSeek Harness plugin: [op7418/dsh-guizang-design](https://github.com/op7418/dsh-guizang-design) ⭐ 437 | 🐛 0 | 🌐 HTML | 📅 2026-10-31.
 
 **Fits**: offline sharing, industry-internal talks, private salons, AI product launches, demo day, speaker-led personal-style talks.
 **Doesn't fit**: dense tabular data, training materials (too low-density), real-time collaborative editing (static HTML).
 
 ***
 
-#### 3. [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) ⭐ 28,597 | 🐛 0 | 🌐 HTML | 📅 2026-10-30 · ⭐ 28,440
+#### 3. [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) ⭐ 28,692 | 🐛 0 | 🌐 HTML | 📅 2026-11-04 · ⭐ 28,440
 
 > *"Type. Hit enter. A finished design lands in your lap."* — HTML-native design skill for Claude Code, Codex, Cursor & any agent · editable PPTX · MP4 export.
 
@@ -148,7 +148,7 @@ Install: `npx skills add alchaincyf/huashu-design`.
 
 ***
 
-#### 4. [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) ⭐ 10,777 | 🐛 5 | 🌐 JavaScript | 📅 2026-11-03 · ⭐ 10,739
+#### 4. [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) ⭐ 10,795 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-05 · ⭐ 10,739
 
 > Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps.
 
@@ -167,7 +167,7 @@ A "Swiss army knife" skill — it'll happily produce a single landing page, a co
 
 ***
 
-#### 5. [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) ⭐ 10,330 | 🐛 16 | 🌐 JavaScript | 📅 2026-09-12 · ⭐ 10,258
+#### 5. [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) ⭐ 10,370 | 🐛 16 | 🌐 JavaScript | 📅 2026-09-12 · ⭐ 10,258
 
 > An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.
 
@@ -187,7 +187,7 @@ Install: `npx dashi-ppt-skill@latest` (Node.js 20+). Licensed AGPL-3.0.
 
 ***
 
-#### 6. [open-slide/open-slide](https://github.com/open-slide/open-slide) ⭐ 9,625 | 🐛 150 | 🌐 TypeScript | 📅 2026-11-04 · ⭐ 9,612
+#### 6. [open-slide/open-slide](https://github.com/open-slide/open-slide) ⭐ 9,637 | 🐛 148 | 🌐 TypeScript | 📅 2026-11-05 · ⭐ 9,612
 
 > The slide framework built for agents. Describe your deck in natural language — your coding agent writes the React. open-slide handles the canvas, scaling, navigation, hot reload, and present mode so the agent can focus on content.
 
@@ -209,7 +209,7 @@ Install: `npx @open-slide/cli init my-slide`.
 
 ***
 
-#### 7. [lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) ⭐ 8,968 | 🐛 11 | 🌐 HTML | 📅 2026-09-14 · ⭐ 8,943
+#### 7. [lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) ⭐ 8,978 | 🐛 11 | 🌐 HTML | 📅 2026-09-14 · ⭐ 8,943
 
 > HTML PPT Studio — A world-class AgentSkill for producing professional HTML presentations.
 
@@ -231,7 +231,7 @@ By far the most feature-loaded skill on this list. Pure static HTML/CSS/JS, no b
 
 ***
 
-#### 8. [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) ⭐ 4,926 | 🐛 1 | 🌐 HTML | 📅 2026-06-09 · ⭐ 4,914
+#### 8. [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) ⭐ 4,932 | 🐛 1 | 🌐 HTML | 📅 2026-06-09 · ⭐ 4,914
 
 > A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically.
 
@@ -246,7 +246,7 @@ Also listed under [Templates](#templates) below.
 
 ***
 
-#### 9. [stackblitz/bolt-slides](https://github.com/stackblitz/bolt-slides) ⭐ 1,154 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-30 · ⭐ 1,152
+#### 9. [stackblitz/bolt-slides](https://github.com/stackblitz/bolt-slides) ⭐ 1,155 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-30 · ⭐ 1,152
 
 > Use any agent to create stunning, interactive presentations.
 
@@ -255,7 +255,7 @@ Also listed under [Templates](#templates) below.
   <br><sub>Above: one prompt in Bolt → a finished interactive deck (the README's own demo).</sub>
 </p>
 
-From StackBlitz, the team behind Bolt. Like open-slide, it is a React deck framework with a bundled agent skill rather than a single-file template: every slide is a plain React component, so a slide can fetch live data, mount a 3D scene or embed a working prototype. The skill ([`.bolt/skills/slides/SKILL.md`](https://github.com/stackblitz/bolt-slides/blob/main/.bolt/skills/slides/SKILL.md) ⭐ 1,154 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-30) teaches Claude Code, Codex, Cursor or Bolt how to theme, compose and write the deck.
+From StackBlitz, the team behind Bolt. Like open-slide, it is a React deck framework with a bundled agent skill rather than a single-file template: every slide is a plain React component, so a slide can fetch live data, mount a 3D scene or embed a working prototype. The skill ([`.bolt/skills/slides/SKILL.md`](https://github.com/stackblitz/bolt-slides/blob/main/.bolt/skills/slides/SKILL.md) ⭐ 1,155 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-30) teaches Claude Code, Codex, Cursor or Bolt how to theme, compose and write the deck.
 
 * **Component library** — `Cover`, `Agenda`, `Section`, `Split`, `Bento`, charts (bar · line · donut), `Table`, `StatGrid`, `Timeline`, `Comparison`, `CodeWindow`, `BrowserFrame`, `Pricing`, `Globe` and more, all responsive.
 * **Presenting** — thumbnail sidebar, grid overview, click-builds (`<Build at={n}>`), content-anchored annotations, and a presenter mode synced to a second tab (timer, next-slide preview, editable notes).
@@ -303,7 +303,7 @@ Editable fork of `zarazhangrui/frontend-slides`. Keeps the upstream style discov
 
 ***
 
-#### 12. [likaku/Mck-ppt-design-skill](https://github.com/likaku/Mck-ppt-design-skill) ⭐ 329 | 🐛 3 | 🌐 Python | 📅 2026-11-03 · ⭐ 328
+#### 12. [likaku/Mck-ppt-design-skill](https://github.com/likaku/Mck-ppt-design-skill) ⭐ 333 | 🐛 3 | 🌐 Python | 📅 2026-11-03 · ⭐ 328
 
 > Consulting firm–style PowerPoint design system for AI agents. 70 layout patterns, flat design, python-pptx. 麦麸风格 PPT 设计系统。
 
@@ -333,7 +333,7 @@ AI-native PowerPoint design system — 67 layouts · Harness Engineering · BLOC
 
 ***
 
-#### 14. [Akxan/ppt-agent-skill](https://github.com/Akxan/ppt-agent-skill) ⭐ 175 | 🐛 0 | 🌐 Python | 📅 2026-05-11 · ⭐ 172
+#### 14. [Akxan/ppt-agent-skill](https://github.com/Akxan/ppt-agent-skill) ⭐ 177 | 🐛 0 | 🌐 Python | 📅 2026-05-11 · ⭐ 172
 
 > World-class AI presentation generator · 26 styles · 18 charts · benchmarked against Linear / Anthropic / Stripe / Apple / NYT.
 
@@ -365,9 +365,9 @@ One of the few skills designed to switch cleanly between image-rendered slides (
 
 ***
 
-#### 16. [software-ai-life/Awesome-PPT-Design-Skills](https://github.com/software-ai-life/Awesome-PPT-Design-Skills) ⭐ 131 | 🐛 0 | 🌐 HTML | 📅 2026-04-28 · ⭐ 130
+#### 16. [software-ai-life/Awesome-PPT-Design-Skills](https://github.com/software-ai-life/Awesome-PPT-Design-Skills) ⭐ 133 | 🐛 0 | 🌐 HTML | 📅 2026-04-28 · ⭐ 130
 
-> Agent-agnostic PPT design skills for generating polished PowerPoint decks with [ppt-master](https://github.com/hugohe3/ppt-master) ⭐ 73,135 | 🐛 1 | 🌐 Python | 📅 2026-11-03.
+> Agent-agnostic PPT design skills for generating polished PowerPoint decks with [ppt-master](https://github.com/hugohe3/ppt-master) ⭐ 73,559 | 🐛 1 | 🌐 Python | 📅 2026-11-03.
 
 Meta-collection rather than a single skill. The author packages multiple distinct visual systems (`japanese-style-ppt-skill`, `soft-3d-clay-ppt-skill`, `futuristic-tech-editorial-ppt-skill`, `minimalist-luxury-branding-ppt-skill`, `modern-illustration-editorial-ppt-skill`, `japanese-hand-drawn-editorial-ppt-skill`) and ships them as a stable visual layer for whichever coding agent you happen to use (Codex, Claude Code, Cursor, OpenCode, OpenClaw, Hermes). Traditional Chinese decks are first-class.
 
@@ -375,7 +375,7 @@ Also listed under [Templates](#templates) below.
 
 ***
 
-#### 17. [joeseesun/qiaomu-bento-ppt](https://github.com/joeseesun/qiaomu-bento-ppt) ⭐ 127 | 🐛 0 | 🌐 HTML | 📅 2026-07-27 · ⭐ 127
+#### 17. [joeseesun/qiaomu-bento-ppt](https://github.com/joeseesun/qiaomu-bento-ppt) ⭐ 126 | 🐛 0 | 🌐 HTML | 📅 2026-07-27 · ⭐ 127
 
 > Turn source material into an editable, presentable, offline-ready bento deck — one self-contained HTML file.
 
@@ -383,7 +383,7 @@ Also listed under [Templates](#templates) below.
   <a href="https://github.com/joeseesun/qiaomu-bento-ppt"><img src="https://raw.githubusercontent.com/joeseesun/qiaomu-bento-ppt/main/docs/assets/qiaomu-bento-ppt-hero.png" width="720" alt="qiaomu-bento-ppt — a generated bento deck"/></a>
 </p>
 
-Builds decks in the [bento](https://github.com/nyblnet/bento) ⭐ 5,609 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-04 `.bento.html` format, where one file carries the document, the viewer and the editor — the recipient double-clicks it to present, edit and save, with no PowerPoint install or cloud login. The skill first settles audience, conclusion and narrative arc, then routes each piece of content to a fitting primitive: trends to charts, specs to tables, before/after to morphs, key numbers to count-ups.
+Builds decks in the [bento](https://github.com/nyblnet/bento) ⭐ 5,616 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-04 `.bento.html` format, where one file carries the document, the viewer and the editor — the recipient double-clicks it to present, edit and save, with no PowerPoint install or cloud login. The skill first settles audience, conclusion and narrative arc, then routes each piece of content to a fitting primitive: trends to charts, specs to tables, before/after to morphs, key numbers to count-ups.
 
 * **Standalone** — a release-pinned bento shell and the official authoring references are bundled, so no bento checkout or network download is needed after install.
 * **Deterministic build and validation** — scripts check document identity, structure and the shell, and write a validation report for every deck.
@@ -409,7 +409,7 @@ Despite the name, this is a tool (Scrolline) with a Claude Code skill, not a lis
 
 ***
 
-#### 19. [borjaperfra/beatdeck](https://github.com/borjaperfra/beatdeck) ⭐ 136 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-01 · ⭐ 100
+#### 19. [borjaperfra/beatdeck](https://github.com/borjaperfra/beatdeck) ⭐ 211 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-01 · ⭐ 100
 
 > Talks as beats, not slides: a fixed 1920×1080 React stage where one click is one beat. Offline, deterministic, presenter view, and a Claude Code skill.
 
@@ -482,7 +482,7 @@ End-to-end workflow specifically tuned for Huawei-style strategy pages, architec
 
 ***
 
-#### 24. [arifszn/slide-wright](https://github.com/arifszn/slide-wright) ⭐ 66 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-24 · ⭐ 66
+#### 24. [arifszn/slide-wright](https://github.com/arifszn/slide-wright) ⭐ 67 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-24 · ⭐ 66
 
 > Make a presentation with your coding agent. Preview two slides, approve, then build and export to PowerPoint or PDF.
 
@@ -539,7 +539,7 @@ Each style is a complete design system: curated typography, color palette, layou
 
 ***
 
-#### 28. [RinDig/lecture-deck-skill](https://github.com/RinDig/lecture-deck-skill) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2026-09-12 · ⭐ 51
+#### 28. [RinDig/lecture-deck-skill](https://github.com/RinDig/lecture-deck-skill) ⭐ 53 | 🐛 1 | 🌐 Python | 📅 2026-09-12 · ⭐ 51
 
 > Build animated, themed HTML lecture and workshop decks from a storyboard. A Claude skill plus a Python kit with three themes.
 
@@ -551,7 +551,7 @@ Designed for live teaching sessions (in a room or on Zoom) with breakouts and sc
 
 ***
 
-#### 29. [patrick-fu/frontend-harness-slides](https://github.com/patrick-fu/frontend-harness-slides) ⭐ 45 | 🐛 0 | 📅 2026-10-10 · ⭐ 45
+#### 29. [patrick-fu/frontend-harness-slides](https://github.com/patrick-fu/frontend-harness-slides) ⭐ 45 | 🐛 0 | 📅 2026-11-04 · ⭐ 45
 
 > Build slide decks as a harness-guarded engineering project — robust, maintainable, and hard to break. A step up from single-file HTML slides.
 
@@ -598,7 +598,7 @@ Install: `npx skills add patrick-fu/frontend-harness-slides -g`.
 
 ***
 
-#### 32. [nghiahsgs/skills-slides](https://github.com/nghiahsgs/skills-slides) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2026-04-01 · ⭐ 33
+#### 32. [nghiahsgs/skills-slides](https://github.com/nghiahsgs/skills-slides) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2026-04-01 · ⭐ 33
 
 > 50,000+ unique HTML presentation designs. Zero dependencies. Anti-AI-slop. A Claude Code skill.
 
@@ -659,17 +659,17 @@ HTML is the better authoring format, but many decks end up with someone who only
 | Project                                                                                                                        | Stars | How it works                                                                                                                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [atharva9167j/dom-to-pptx](https://github.com/atharva9167j/dom-to-pptx) ⭐ 389 \| 🐛 7 \| 🌐 JavaScript \| 📅 2026-10-18        | 389   | Client-side JavaScript library built on PptxGenJS: walks the DOM, reads computed styles and maps elements to native shapes and text boxes; v2 adds speaker notes and PowerPoint animations / transitions. Also installs as an agent skill (`npx dom-to-pptx-skills`). MIT.      |
-| [Hasasasa/html-to-editable-pptx](https://github.com/Hasasasa/html-to-editable-pptx) ⭐ 94 \| 🐛 0 \| 🌐 Python \| 📅 2026-07-07 | 94    | Agent skill + Python CLI for single-file decks (beautiful-html-templates, guizang-ppt-skill, Reveal.js, hand-written). Native text boxes, on-demand font subsetting, local snapshots for CSS effects PowerPoint can't express, and HTML-vs-PPTX side-by-side audit images. MIT. |
+| [Hasasasa/html-to-editable-pptx](https://github.com/Hasasasa/html-to-editable-pptx) ⭐ 96 \| 🐛 0 \| 🌐 Python \| 📅 2026-07-07 | 94    | Agent skill + Python CLI for single-file decks (beautiful-html-templates, guizang-ppt-skill, Reveal.js, hand-written). Native text boxes, on-demand font subsetting, local snapshots for CSS effects PowerPoint can't express, and HTML-vs-PPTX side-by-side audit images. MIT. |
 | [wangzan101/html-to-ppt-pdf](https://github.com/wangzan101/html-to-ppt-pdf) ⭐ 40 \| 🐛 1 \| 🌐 JavaScript \| 📅 2026-06-16     | 40    | Skill for guizang-ppt-skill decks: Playwright captures each page at 1920×1080 into a PDF and an image-per-slide PPTX. Not editable, but visually exact. MIT.                                                                                                                    |
-| [Design-Arena/html-to-pptx](https://github.com/Design-Arena/html-to-pptx) ⭐ 25 \| 🐛 0 \| 🌐 Python \| 📅 2026-10-29           | 25    | Python CLI / library (`pip install html-to-pptx`) that measures every DOM element in headless Chromium and maps it to a PPTX shape. MIT.                                                                                                                                        |
+| [Design-Arena/html-to-pptx](https://github.com/Design-Arena/html-to-pptx) ⭐ 27 \| 🐛 0 \| 🌐 Python \| 📅 2026-10-29           | 25    | Python CLI / library (`pip install html-to-pptx`) that measures every DOM element in headless Chromium and maps it to a PPTX shape. MIT.                                                                                                                                        |
 
-Anthropic's [`pptx` skill](https://github.com/anthropics/skills/tree/main/skills/pptx) ⭐ 187,145 | 🐛 1,467 | 🌐 Python | 📅 2026-10-28 (in `anthropics/skills`) used to ship an `html2pptx` workflow — author slides as HTML, convert them with a bundled script. That workflow was removed in February 2026; the current skill has the agent write [PptxGenJS](https://github.com/gitbrent/PptxGenJS) ⭐ 6,349 | 🐛 308 | 🌐 TypeScript | 📅 2025-11-28 scripts directly, plus validation and thumbnail tools. It fits when you are happy for the agent to rebuild the deck natively rather than convert your HTML. The skill is source-available under a proprietary license.
+Anthropic's [`pptx` skill](https://github.com/anthropics/skills/tree/main/skills/pptx) ⭐ 187,448 | 🐛 1,482 | 🌐 Python | 📅 2026-10-28 (in `anthropics/skills`) used to ship an `html2pptx` workflow — author slides as HTML, convert them with a bundled script. That workflow was removed in February 2026; the current skill has the agent write [PptxGenJS](https://github.com/gitbrent/PptxGenJS) ⭐ 6,351 | 🐛 309 | 🌐 TypeScript | 📅 2025-11-28 scripts directly, plus validation and thumbnail tools. It fits when you are happy for the agent to rebuild the deck natively rather than convert your HTML. The skill is source-available under a proprietary license.
 
 **Rasterize, then rebuild**
 
 When a deck relies on things a DOM-to-shape converter can't follow (WebGL backgrounds, canvas, 3D), export it to PDF or slide screenshots first — most skills above can export PDF, or print from Chrome — then use a tool that reconstructs editable text boxes and shapes from the images:
 
-* [ningzimu/image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill) ⭐ 3,238 | 🐛 2 | 🌐 Python | 📅 2026-09-16 · 3,217 ⭐ — open-source Codex skill that rebuilds slide images, PDFs and image-based PPTX page by page: OCR'd text becomes native text boxes, simple geometry becomes shapes, complex visuals stay as separate image assets. Runs on your own Codex quota (its README recommends ChatGPT Pro for multi-page decks). MIT.
+* [ningzimu/image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill) ⭐ 3,245 | 🐛 2 | 🌐 Python | 📅 2026-09-16 · 3,217 ⭐ — open-source Codex skill that rebuilds slide images, PDFs and image-based PPTX page by page: OCR'd text becomes native text boxes, simple geometry becomes shapes, complex visuals stay as separate image assets. Runs on your own Codex quota (its README recommends ChatGPT Pro for multi-page decks). MIT.
 * [ToseaAI/editable-pptx-skill](https://github.com/ToseaAI/editable-pptx-skill) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-11-02 — A Claude Code / Codex skill that sends PDFs, slide screenshots or images to the [Reslide](https://reslide.tosea.ai) API and returns an editable PPTX. Billed per page; new accounts get 10 free pages. *(Made by Tosea.ai, which maintains this list.)*
 * Tosea.ai web tools, free with sign-in (a shared allowance of 5 pages a month on the free plan): [PDF to PPT](https://tosea.ai/free-tools/pdf-to-ppt) · [Image to editable PPT](https://tosea.ai/free-tools/image-to-editable-ppt) · [NotebookLM slides to PowerPoint](https://tosea.ai/free-tools/notebooklm-slides-to-powerpoint). Image conversions on the free plan carry a small watermark.
 
@@ -681,7 +681,7 @@ Hand-crafted HTML template libraries — drop them into a project, point your ag
 
 ***
 
-#### T1. [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) ⭐ 4,926 | 🐛 1 | 🌐 HTML | 📅 2026-06-09 · ⭐ 4,914
+#### T1. [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) ⭐ 4,932 | 🐛 1 | 🌐 HTML | 📅 2026-06-09 · ⭐ 4,914
 
 > A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically.
 
@@ -694,7 +694,7 @@ Hand-crafted HTML template libraries — drop them into a project, point your ag
 
 ***
 
-#### T2. [software-ai-life/Awesome-PPT-Design-Skills](https://github.com/software-ai-life/Awesome-PPT-Design-Skills) ⭐ 131 | 🐛 0 | 🌐 HTML | 📅 2026-04-28 · ⭐ 130
+#### T2. [software-ai-life/Awesome-PPT-Design-Skills](https://github.com/software-ai-life/Awesome-PPT-Design-Skills) ⭐ 133 | 🐛 0 | 🌐 HTML | 📅 2026-04-28 · ⭐ 130
 
 > Agent-agnostic PPT design skills, distributed as a library of style packs.
 
@@ -738,4 +738,4 @@ Inline preview images are hot-linked from each project's own GitHub repository (
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
