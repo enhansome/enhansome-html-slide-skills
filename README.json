@@ -20,7 +20,7 @@
                 "open_issues": 72,
                 "owner": "zarazhangrui",
                 "repo": "frontend-slides",
-                "stars": 32562,
+                "stars": 32642,
                 "topics": [
                   "ai-slides",
                   "anthropic",
@@ -52,7 +52,7 @@
                 "open_issues": 52,
                 "owner": "op7418",
                 "repo": "guizang-ppt-skill",
-                "stars": 30079,
+                "stars": 30138,
                 "topics": [
                   "ai-agent",
                   "claude-code",
@@ -85,7 +85,7 @@
                 "open_issues": 0,
                 "owner": "alchaincyf",
                 "repo": "huashu-design",
-                "stars": 29832,
+                "stars": 29903,
                 "topics": [
                   "agent-skills",
                   "ai-design",
@@ -127,7 +127,7 @@
                 "open_issues": 3,
                 "owner": "nicobailon",
                 "repo": "visual-explainer",
-                "stars": 11173,
+                "stars": 11189,
                 "topics": []
               },
               "title": "4. nicobailon/visual-explainer · ⭐ 10,739",
@@ -145,10 +145,10 @@
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-06T08:26:30Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "chuspeeism",
                 "repo": "dashi-ppt-skill",
-                "stars": 10832,
+                "stars": 10866,
                 "topics": [
                   "agent-skill",
                   "ai-agent",
@@ -180,11 +180,11 @@
                 "id": 1221509404,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T16:33:31Z",
-                "open_issues": 149,
+                "last_commit": "2026-11-19T17:04:20Z",
+                "open_issues": 148,
                 "owner": "open-slide",
                 "repo": "open-slide",
-                "stars": 9805,
+                "stars": 9813,
                 "topics": [
                   "agent",
                   "react",
@@ -209,7 +209,7 @@
                 "open_issues": 12,
                 "owner": "lewislulu",
                 "repo": "html-ppt-skill",
-                "stars": 9144,
+                "stars": 9162,
                 "topics": []
               },
               "title": "7. lewislulu/html-ppt-skill · ⭐ 8,943",
@@ -230,7 +230,7 @@
                 "open_issues": 1,
                 "owner": "zarazhangrui",
                 "repo": "beautiful-html-templates",
-                "stars": 5021,
+                "stars": 5025,
                 "topics": []
               },
               "title": "8. zarazhangrui/beautiful-html-templates · ⭐ 4,914",
@@ -300,7 +300,7 @@
                 "open_issues": 4,
                 "owner": "archlizheng",
                 "repo": "frontend-slides-editable",
-                "stars": 561,
+                "stars": 564,
                 "topics": []
               },
               "title": "11. archlizheng/frontend-slides-editable · ⭐ 547",
@@ -384,7 +384,7 @@
                 "open_issues": 0,
                 "owner": "Akxan",
                 "repo": "ppt-agent-skill",
-                "stars": 185,
+                "stars": 186,
                 "topics": [
                   "ai-agent",
                   "ai-presentation",
@@ -636,12 +636,12 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
-                "description": "Make a presentation with your coding agent. Compare design directions in short previews, pick one, then build and export to PowerPoint or PDF.",
+                "description": "Make presentations with your coding agent. Compare design directions in short previews, pick one, then build and export to PowerPoint or PDF.",
                 "homepage": null,
                 "id": 1270170443,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-13T10:34:08Z",
+                "last_commit": "2026-11-19T14:12:17Z",
                 "open_issues": 0,
                 "owner": "arifszn",
                 "repo": "slide-wright",
@@ -766,7 +766,7 @@
                 "id": 1283169213,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-11-04T19:29:23Z",
+                "last_commit": "2026-11-19T14:17:25Z",
                 "open_issues": 0,
                 "owner": "patrick-fu",
                 "repo": "frontend-harness-slides",
@@ -910,7 +910,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-18T08:40:36Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "atharva9167j",
             "repo": "dom-to-pptx",
             "stars": 392,
@@ -1037,7 +1037,7 @@
             "open_issues": 1,
             "owner": "ningzimu",
             "repo": "image-to-editable-ppt-skill",
-            "stars": 3438,
+            "stars": 3451,
             "topics": [
               "codex",
               "codex-skill",
@@ -1106,7 +1106,7 @@
             "open_issues": 1,
             "owner": "zarazhangrui",
             "repo": "beautiful-html-templates",
-            "stars": 5021,
+            "stars": 5025,
             "topics": []
           },
           "title": "T1. zarazhangrui/beautiful-html-templates · ⭐ 4,914",
@@ -1144,7 +1144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T03:52:34.318Z",
+    "last_updated": "2026-11-20T03:44:55.605Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of HTML slide generation skills and template libraries for Claude Code, Codex, Cursor, OpenClaw, and Hermes. 精选 HTML 演示文稿 Skill 与模板库。",
@@ -1156,7 +1156,7 @@
       "open_issues": 2,
       "owner": "ToseaAI",
       "repo": "awesome-html-slide-skills",
-      "stars": 200,
+      "stars": 201,
       "topics": [
         "ai-agents",
         "anthropic",
